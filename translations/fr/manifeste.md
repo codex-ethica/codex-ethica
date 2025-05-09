@@ -13,7 +13,7 @@ Et cela, **nous pouvons le construire nous-mêmes**, comme l’avaient déjà d�
 
 ---
 
-## 2. Les limites des fondements religieux de la morale
+## 2. Les limites et l’apport des fondements religieux de la morale
 
 Les grands textes religieux ont été écrits dans des contextes historiques très différents des nôtres.  
 On y trouve :
@@ -25,6 +25,9 @@ On y trouve :
 
 Même si certains croyants interprètent ces textes de manière symbolique aujourd’hui, **le socle reste fragile**.  
 Un texte présenté comme sacré est, par essence, difficile à remettre en question. Cela freine les progrès moraux.
+
+Cependant, il serait injuste de nier que les religions ont aussi contribué à l’histoire morale de l’humanité : elles ont inspiré des mouvements de solidarité, de justice sociale, et de défense des plus vulnérables.  
+De nombreux croyants, aujourd’hui, défendent des valeurs d’autonomie, de justice et de responsabilité, et participent activement au progrès moral.
 
 Comme l’ont montré **Steven Pinker** ou **Yuval Noah Harari**, les grandes avancées morales modernes — abolition de l’esclavage, droits humains, égalité, écologie — ne sont pas issues de révélations, mais de **luttes sociales, de réflexions philosophiques, de mobilisations humaines**.
 
@@ -39,7 +42,7 @@ Nous croyons en une éthique fondée sur trois principes simples :
 
 - **Le respect des autres** : reconnaître la dignité de chaque individu, indépendamment de ses croyances, de son identité ou de son origine. Cela rejoint la tradition kantienne de l’autonomie morale et de la reconnaissance de l’autre comme une fin en soi.
 
-- **La liberté personnelle** : tant qu’on ne nuit à personne, chacun doit pouvoir vivre selon ses propres valeurs. Cette approche s’inscrit dans la “morale minimale” défendue par **Ruwen Ogien** : ne pas imposer sa morale aux autres, mais en assumer les conséquences pour soi-même.
+- **La liberté personnelle** : tant qu’on ne nuit à personne, chacun doit pouvoir vivre selon ses propres valeurs. Cette approche s’inscrit dans la "morale minimale" défendue par **Ruwen Ogien** : ne pas imposer sa morale aux autres, mais en assumer les conséquences pour soi-même.
 
 - **La responsabilité collective** : nos actions ont des effets sur les autres et sur les générations futures. Agir avec lucidité, dans une logique de durabilité, c’est reconnaître que nous sommes comptables non devant un dieu, mais **devant les vivants et les générations à venir**.  
   Cela rejoint les avertissements de **Hans Jonas** sur la responsabilité à long terme, ou les travaux d’**Ulrich Beck** et **Uwe Schneidewind** sur la transition écologique.
@@ -49,7 +52,17 @@ Elle s’inscrit dans la logique des **capabilités** (Sen & Nussbaum) : permett
 
 ---
 
-## 4. Dix principes pour une vie juste
+## 4. De la morale individuelle à la transformation sociale
+
+L’histoire montre que les grandes évolutions institutionnelles — comme l’abolition de l’esclavage ou l’égalité des droits — ont souvent été précédées par des changements de mentalité à l’échelle individuelle et collective.  
+C’est en adoptant, chacun, une éthique fondée sur la raison, le respect et la responsabilité, que nous pouvons, par effet d’entraînement, transformer les normes sociales, les lois et les institutions.
+
+Par exemple, la reconnaissance du mariage pour tous ou l’abolition de la peine de mort ont d’abord été portées par des mouvements citoyens, avant d’être inscrites dans la loi.  
+La généralisation d’une morale laïque et argumentée est donc le moteur d’un changement social profond et durable.
+
+---
+
+## 5. Dix principes pour une vie juste
 
 Nous proposons un socle commun, ouvert, simple à transmettre et à discuter :  
 ➡️ [Consulter les 10 principes](principes.md)
@@ -60,15 +73,23 @@ Ils sont une **boussole pour vivre ici, maintenant, avec lucidité, dignité et 
 
 ---
 
-## 5. Une éthique humaniste pour un monde libre
+## 6. Pour une éthique du dialogue et de l’inclusion
+
+Refuser les dogmes, ce n’est pas refuser les autres.  
+C’est vouloir construire une société **où les valeurs viennent du débat, pas de l’adoration**.
+
+Nous reconnaissons la diversité des convictions et l’apport historique des religions, mais nous affirmons la nécessité d’une morale commune, fondée sur la raison, le respect et la liberté de conscience.
+
+Nous invitons chacun, croyant ou non, à participer à ce dialogue et à la co-construction d’une éthique partagée, pour une société plus juste, inclusive et tournée vers l’avenir.
+
+---
+
+## 7. Une société morale sans dieux, c’est possible
 
 Nous n’avons pas besoin de croire pour faire le bien.  
 Nous avons besoin de conscience, de dialogue, de lucidité, d’exigence.
 
-Refuser les dogmes, ce n’est pas refuser les autres.  
-C’est vouloir construire une société **où les valeurs viennent du débat, pas de l’adoration.**
+Une société qui respecte les croyants, mais **ne fonde pas ses lois sur la foi**.  
+Une société morale sans dieux, **c’est possible**.
 
-Une société qui respecte les croyants, mais **ne fonde pas ses lois sur la foi.**  
-Une société morale sans dieux, **c’est possible.**
-
-Et elle commence **quand la justice devient une responsabilité humaine, pas divine.**
+Et elle commence **quand la justice devient une responsabilité humaine, pas divine**.
