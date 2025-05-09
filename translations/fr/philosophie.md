@@ -105,6 +105,8 @@ Codex Ethica s’appuie sur une convergence éthique mondiale, documentée :
 - **Peut-on réellement fonder un socle commun sans récit collectif ?**  
   Oui : le socle proposé repose sur des principes discutables et partagés, permettant un dialogue ouvert (Nussbaum, 2006).
 
+> Pour des réponses plus détaillées ou d’autres objections, voir le document [`objections.md`](objections.md).
+
 ---
 
 ## 8. La contrainte morale sans transcendance : pourquoi agir moralement ?
@@ -158,6 +160,8 @@ celle des femmes et des hommes qui, sans dogme, ont voulu agir avec justesse.
 - Küng, H. (1990). Projet d’éthique planétaire.
 - UNESCO (2015). L’éducation à la citoyenneté mondiale.
 - Charte de Montréal pour une IA responsable (2018).
+
+Pour une liste complète et actualisée des références, voir [`references.md`](references.md).
 
 ## 9. Études de cas et dilemmes concrets
 

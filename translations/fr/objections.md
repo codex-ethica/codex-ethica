@@ -1,5 +1,7 @@
 # ❓ Répondre aux objections – Codex Ethica
 
+> Pour les fondements philosophiques et des réponses argumentées en profondeur, voir le document [`philosophie.md`](philosophie.md).
+
 Ce projet soulève des questions, des critiques, parfois des méfiances.  
 Répondre aux objections n’est pas une posture défensive : c’est une manière d’ouvrir le dialogue, de clarifier nos intentions et d’assumer notre position.
 
