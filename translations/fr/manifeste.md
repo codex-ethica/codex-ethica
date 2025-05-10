@@ -60,10 +60,10 @@ Ainsi, l'essor et le partage d'une morale laïque, fondée sur l'argumentation e
 
 ---
 
-## 5. Dix repères pour une vie juste
+## 5. Dix principes pour une vie juste
 
-En guise de socle partagé, adaptable et aisément transmissible, nous avançons ces dix repères :
-➡️ [Découvrir les 10 repères pour une éthique au quotidien](principes.md)
+En guise de socle partagé, adaptable et aisément transmissible, nous avançons ces dix principes :
+➡️ [Découvrir les 10 principes pour une éthique au quotidien](principes.md)
 
 Ces orientations ne se réclament d'aucune croyance particulière et ne visent à s'imposer à quiconque.
 Chacun peut se les approprier, les nourrir de sa réflexion, les diffuser, les ajuster à sa mesure.
