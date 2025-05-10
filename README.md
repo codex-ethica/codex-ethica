@@ -7,14 +7,37 @@
 
 ## 🔍 What is Codex Ethica?
 
-**Codex Ethica is a public, collaborative and open-source ethical framework**, based on reason, respect and responsibility — not divine authority.
+**Codex Ethica is a public, collaborative and open-source ethical framework**, based on reason, mutual respect, and shared responsibility — not divine authority.
 
-It aims to offer:
+It aims to provide a robust moral compass for individuals seeking ethical guidance outside of traditional religious doctrines, and for all who wish to contribute to a more just, enlightened, and supportive society. It offers:
 - A clear and rigorous alternative to religious morality
 - A foundation for humanist, secular, and civic ethics
 - A set of 10 core principles for living ethically without dogma
 
-It draws from the works of thinkers such as **Kant, Camus, Ogien, Nussbaum, Harari, Sen, Jonas**, and many others.
+It draws from the works of thinkers such as **Kant, Camus, Ogien, Nussbaum, Harari, Sen, Jonas**, and many others, as well as wisdom from diverse philosophical traditions worldwide.
+
+---
+
+## 🧭 How to Approach Codex Ethica: Our Reading Guide
+
+To help you discover Codex Ethica, we suggest a progressive approach. Each document plays a role and offers a unique perspective, allowing you to explore the project according to your interests and available time:
+
+1.  **For a quick first look and to grasp the project's spirit:**
+    *   We recommend starting with the **[`manifesto.md`](manifesto.md)**. It outlines our founding call: why and how we envision building a morality without gods. It's the ideal starting point to understand our intentions.
+
+2.  **Practical foundations and their roots:**
+    *   Next, familiarize yourself with the **[`principles.md`](principles.md)**. These Ten Key Principles are designed as a concrete compass for an ethical life.
+    *   To understand the detailed philosophical grounding of each of these principles, consult **[`principles_foundations.md`](principles_foundations.md)**. This document explores their connection to a rich tradition of humanist and critical thought. (The French original is `translations/fr/fondements_des_principes.md`.)
+
+3.  **For in-depth exploration and discussion:**
+    *   The most comprehensive document is our **[`philosophy.md`](philosophy.md)**. It lays out the overall theoretical framework of Codex Ethica, explores convergences with various global philosophical traditions, discusses case studies, ethical dilemmas, and proposes a methodology for addressing disagreements. It's a denser read but essential for a thorough understanding.
+    *   If you're wondering about common objections or wish to see how this ethic dialogues with critiques, our **[`objections.md`](objections.md)** offers reasoned responses.
+
+4.  **Further resources and participation:**
+    *   Our **[`references.md`](references.md)** lists the bibliography of works and authors inspiring the project, for those who wish to further explore the intellectual sources.
+    *   And if you feel like participating in the improvement and dissemination of these texts, our **[`CONTRIBUTING.md`](CONTRIBUTING.md)** will explain how.
+
+We encourage you to navigate these documents based on your questions. Although they form a coherent whole, each part can also independently illuminate specific aspects.
 
 ---
 
@@ -24,7 +47,8 @@ This repository provides:
 
 - `manifesto.md` → A structured philosophical and civic argument for a godless morality  
 - `principles.md` → 10 universal principles for ethical life, without divine obligation  
-- `philosophy.md` → Key intellectual foundations (Kantian ethics, capabilities, secular humanism...)  
+- `principles_foundations.md` → Detailed philosophical grounding of the Ten Key Principles
+- `philosophy.md` → Overall theoretical framework, convergences with other traditions, case studies, dilemmas, and methodology for managing disagreements.  
 - `objections.md` → Responses to common criticisms from religious, conservative, or relativist perspectives  
 - `references.md` → Annotated bibliography for deeper reading and legitimacy  
 - `translations/` → 🇫🇷 🇪🇸 🇩🇪 and more to come  
@@ -57,16 +81,16 @@ It offers a public moral framework for those who think differently — but live 
 
 ## 📖 10 Principles (summary)
 
-- Respect human dignity  
-- Do no harm  
-- Defend freedom — for all  
-- Think for yourself  
-- Question easy truths  
-- Be honest about what you know and don't know  
-- Own your actions  
-- Protect the vulnerable  
-- Care for the Earth and future generations  
-- Do good — here and now
+- Respect the dignity of every person.
+- Do no harm.
+- Think for yourself, challenge dogmas.
+- Dialogue to understand, unite to build.
+- Be honest and humble in your quest for truth.
+- Be free, and defend the freedom of all.
+- Confront injustice, work for an equitable world.
+- Be responsible: your actions belong to you.
+- Care for the world, protect the living and the future.
+- Do good around you, here and now.
 
 ➡️ [Full list here](principles.md)
 
@@ -81,11 +105,20 @@ You can copy, adapt, translate or publish it — as long as you credit the sourc
 
 ## 🙌 Contribute
 
-You can:
-- Translate into your language
-- Improve or extend the reasoning
-- Share or reuse the content
-- Propose new principles or arguments
+Your participation is invaluable! Here's how you can help:
+
+-   Check our [`CONTRIBUTING.md`](CONTRIBUTING.md) for detailed guidelines.
+-   **Translate:** Help us extend the reach of Codex Ethica by translating content into your language.
+-   **Proofreading & Style:** Suggest corrections or improvements to make the texts clearer and more impactful.
+-   **Content & Ideas:** Suggest additions, clarifications, or new arguments.
+-   **Dissemination:** Share the project with your contacts, social networks, and communities.
+
+**Join the Discussion:**
+
+We are open to your feedback and contributions:
+-   Open a **GitHub Issue** on the project repository for any technical questions, suggestions, or problem reports.
+-   Join our **dedicated discussion channels** (if available – see project updates).
+-   Contact us via **e-mail** for more direct exchanges (if an address is provided in the project's main communication channels).
 
 See [`CONTRIBUTING.md`](CONTRIBUTING.md) for how to help.
 
@@ -95,4 +128,4 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) for how to help.
 
 Codex Ethica is not a religion. Not a dogma. Not a brand.  
 It is a **tool for those who believe in human reason, dignity and freedom.**  
-It’s yours. Use it. Share it. Improve it.
+It's yours. Use it. Share it. Improve it.

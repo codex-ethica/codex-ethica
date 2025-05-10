@@ -4,32 +4,42 @@
 
 ---
 
-## 1. Respect the dignity of every person  
-Every human being deserves consideration, without condition.
+**These principles, proposed in our [Manifesto for a Morality Without Gods](manifesto.md), are guides for thinking and acting freely. It is up to each individual to bring them to life, consciously.**
 
-## 2. Do no harm  
-Justice begins with the refusal of violence.
+For a more detailed exploration of the philosophical inspirations behind these principles, please see the document [Philosophical Foundations of the Ten Principles](principles_foundations.md).
 
-## 3. Be free, and defend the freedom of others  
-Freedom only has meaning if it is shared.
+---
 
-## 4. Think for yourself  
-Doubt, question, verify — this is the foundation of moral autonomy.
+## 1. Respect the dignity of every person.
+*In every person, an equal and absolute worth.*
 
-## 5. Challenge easy certainties  
-Truth has nothing to fear from doubt.
+## 2. Do no harm.
+*The foundation of all justice begins with the absence of violence.*
 
-## 6. Be honest about what you know, and humble about what you don't  
-Intellectual humility is a form of clarity.
+## 3. Think for yourself, challenge dogmas.
+*Doubt, question, verify. Truth has nothing to fear from doubt.*
 
-## 7. Be responsible: your actions belong to you  
-No god, no tradition can excuse your irresponsibility.
+## 4. Dialogue to understand, unite to build.
+*Mutual listening enlightens, shared effort builds the future.*
 
-## 8. Support the most vulnerable  
-Justice begins where we protect those who cannot defend themselves.
+## 5. Be honest and humble in your quest for truth.
+*Intellectual humility is a form of clarity. Admit your ignorance to learn better.*
 
-## 9. Protect the planet, all living beings, and future generations  
-Our world is a fragile legacy — not an infinite resource.
+## 6. Be free, and defend the freedom of all.
+*It is the breath of human dignity, and only has meaning when shared.*
 
-## 10. Do good around you, here and now  
-Because this is where it all begins — and where everything can improve.
+## 7. Confront injustice, work for an equitable world.
+*Never resign yourself. Justice is won through the commitment of all.*
+
+## 8. Be responsible: your actions belong to you.
+*No God, no tradition can justify irresponsibility.*
+
+## 9. Care for the world, protect the living and the future.
+*Our Earth is a fragile heritage; our destiny is linked to that of all beings.*
+
+## 10. Do good around you, here and now.
+*For this is where it all begins—and where every conscious act can improve the world.*
+
+---
+
+To consult the list of works and authors that have nurtured this reflection, see our [Bibliographical References](references.md).
