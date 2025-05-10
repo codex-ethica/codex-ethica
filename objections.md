@@ -7,7 +7,7 @@ permalink: /objections/
 # Responding to Objections – Codex Ethica
 
 This project, presented in our [Manifesto for a Morality Without Gods](manifesto.md), naturally raises questions and criticisms.
-For the philosophical foundations and in-depth reasoned responses, see the [`philosophy.md`](philosophy.md) document.
+For the philosophical foundations and in-depth reasoned responses, see the [Philosophical Foundations](philosophy.md) document.
 
 Responding to objections is not a defensive posture: it is a way to open dialogue, clarify our intentions, and own our position.
 

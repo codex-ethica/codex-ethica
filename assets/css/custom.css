@@ -194,4 +194,63 @@ strong, b {
     font-weight: 700; /* Assure l'utilisation de Lora Bold (si Lora 700 est importée) */
 }
 
+/* 10. Custom Button for Homepage */
+.btn-outline-codex {
+    color: #3B3B3B; /* Couleur du texte principal */
+    border-color: #3B3B3B;
+    padding: 0.5rem 1.5rem; /* Un peu plus de padding horizontal */
+    font-family: 'Lora', serif; /* Cohérence avec le corps */
+    font-weight: 700; /* Lora Bold */
+    font-size: 1.1rem;
+    transition: all 0.3s ease-in-out;
+}
+
+.btn-outline-codex:hover,
+.btn-outline-codex:focus {
+    color: #FAF8F0; /* Texte devient couleur de fond */
+    background-color: #3B3B3B; /* Fond devient couleur du texte */
+    border-color: #3B3B3B;
+}
+
+/* 11. Reading Guide Item Styling */
+.reading-guide-item {
+    margin-bottom: 2.5rem; /* Plus d'espace entre les items */
+}
+
+.reading-guide-item h3 {
+    /* Playfair Display est déjà appliqué aux H3 par la règle générale */
+    /* font-size: 1.75rem; est déjà défini pour H3 */
+    /* font-weight: 600; est déjà défini pour H3 */
+    margin-top: 0; /* Annuler la marge supérieure pour les H3 dans ces items */
+    margin-bottom: 0.75rem;
+}
+
+.reading-guide-item p {
+    /* Lora est déjà appliqué */
+    /* font-size: 1rem; est déjà appliqué */
+    /* line-height: 1.75; est déjà appliqué */
+    /* color: #3B3B3B; est déjà appliqué */
+    margin-bottom: 0; /* Pas de marge en bas si c'est le seul paragraphe */
+}
+
+/* 12. List Group (Key Features) Adaptation */
+.list-group-item {
+    background-color: transparent; /* Pour se fondre avec le fond #FAF8F0 */
+    border-color: rgba(59, 59, 59, 0.25); /* Même couleur que nos <hr> */
+    color: #3B3B3B; /* Couleur du texte principal */
+    padding-left: 0; /* Aligner avec le texte normal si pas de puce custom */
+    padding-right: 0;
+}
+
+/* S'assurer que les liens dans les list-group-item ont la bonne couleur */
+.list-group-item a {
+    color: #0d6efd; /* Garder le bleu Bootstrap pour les liens ici */
+    text-decoration: underline; /* Souligner pour plus de clarté dans ce contexte */
+}
+
+.list-group-item a:hover,
+.list-group-item a:focus {
+    color: #0a58ca;
+}
+
 /* Further refinements welcome! */ 
