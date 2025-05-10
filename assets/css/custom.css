@@ -6,7 +6,8 @@ body {
     font-size: 1rem; /* Base font size, typically 16px */
     line-height: 1.75; /* Generous line height for Lora's readability in long texts */
     font-weight: 500; /* Standard weight for Lora */
-    color: #212529; /* Bootstrap's default body color for good contrast */
+    color: #3B3B3B; /* Softened black for text */
+    background-color: #FAF8F0; /* Subtle cream background */
     -webkit-font-smoothing: antialiased; /* Improve font rendering on WebKit */
     -moz-osx-font-smoothing: grayscale; /* Improve font rendering on Firefox */
 }
@@ -128,7 +129,7 @@ main {
 
 /* 6. Horizontal Rule */
 hr {
-    border-top: 1px solid #dee2e6; /* Standard Bootstrap hr color */
+    border-top: 1px solid rgba(59, 59, 59, 0.25); /* Softened hr color based on text color */
     margin-top: 2.5rem;
     margin-bottom: 2.5rem;
 }
