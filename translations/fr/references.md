@@ -2,6 +2,8 @@
 
 Cette page recense les principales œuvres et auteurs qui ont nourri la réflexion et l'élaboration du [Codex Ethica](manifeste.md). Ces références sont mobilisées et explicitées plus en détail dans notre document sur les [Fondements Philosophiques des Dix Principes](fondements_des_principes.md) et irriguent l'ensemble de notre [démarche philosophique](philosophie.md).
 
+---
+
 ## 1. Références fondamentales
 
 - **Emmanuel Kant** – Fondements de la métaphysique des mœurs (1785)
@@ -19,8 +21,6 @@ Cette page recense les principales œuvres et auteurs qui ont nourri la réflexi
 - **Mahatma Gandhi** – Tous les hommes sont frères (1958)
   _Figure mondiale de la non-violence et de l'éthique du devoir._
 
----
-
 ## 2. Les Lumières
 
 - **Voltaire** – Traité sur la tolérance (1763)
@@ -31,8 +31,6 @@ Cette page recense les principales œuvres et auteurs qui ont nourri la réflexi
   _Pour une éthique de la liberté et les fondements de l'éducation morale citoyenne._
 - **Montesquieu** – De l'esprit des lois (1748)
   _Pour une compréhension de la diversité des éthiques et l'importance de la modération._
-
----
 
 ## 3. Philosophie occidentale moderne et contemporaine
 
@@ -57,8 +55,6 @@ Cette page recense les principales œuvres et auteurs qui ont nourri la réflexi
 - **Hannah Arendt** – La condition de l'homme moderne (1958)
   _Pour une pensée sur l'action, la liberté et la responsabilité dans le monde public._
 
----
-
 ## 4. Sagesses du Monde et Pensées Décoloniales
 
 - **Mencius** – Entretiens (IVe siècle av. J.-C.)
@@ -70,8 +66,6 @@ Cette page recense les principales œuvres et auteurs qui ont nourri la réflexi
 - **Dalaï Lama** – L'Art du bonheur (1998)
   _Pour une éthique de la compassion, de l'interdépendance et de la discipline mentale._
 
----
-
 ## 5. Enjeux Éthiques Contemporains et Chartes
 
 - **Déclaration Universelle des Droits de l'Homme** (1948)
@@ -81,8 +75,6 @@ Cette page recense les principales œuvres et auteurs qui ont nourri la réflexi
 - **UNESCO** – L'éducation à la citoyenneté mondiale (2015)
   _Pour un cadre éthique de l'éducation à l'échelle globale._
 
----
-
 ## 6. Pour aller plus loin
 
 - **John Stuart Mill** – De la liberté (1859)
@@ -91,7 +83,5 @@ Cette page recense les principales œuvres et auteurs qui ont nourri la réflexi
   _Plaidoyer pour la rationalité critique et la démocratie contre le totalitarisme._
 - **Paul Ricœur** – Soi-même comme un autre (1990)
   _Réflexion profonde sur l'identité, l'altérité et la visée éthique._
-
----
 
 *Cette liste de références, loin d'être exhaustive, offre des pistes pour explorer les fondations et les horizons du Codex Ethica. Elle est destinée à être enrichie par la réflexion et le dialogue continus.* 

@@ -22,14 +22,10 @@ Notre corpus de textes s'articule autour des documents suivants :
 | [`references.md`](references.md)                   | Bibliographie des œuvres et auteurs inspirant le projet.                     |
 | [`CONTRIBUTING.md`](CONTRIBUTING.md)               | Comment participer à l'amélioration et à la diffusion de ces textes.        |
 
----
-
 ## 🌍 Notre Ambition
 
 > Offrir un cadre de réflexion et d'action pour une **morale laïque universelle**, ouverte au dialogue et adaptable par chacun.
 > Un projet **libre, collaboratif et en constante évolution**, pensé pour être traduit, partagé et enrichi par une communauté globale.
-
----
 
 ## 🛠️ Contribuer au Projet (en Français)
 
@@ -40,8 +36,6 @@ Votre participation est précieuse ! Voici comment vous pouvez aider :
 -   **Contenu & Idées :** Suggérez des ajouts, des clarifications, ou de nouveaux arguments.
 -   **Traduction :** Si vous maîtrisez d'autres langues, aidez-nous à étendre la portée du Codex Ethica.
 -   **Diffusion :** Partagez le projet avec vos contacts, réseaux sociaux, et communautés.
-
----
 
 ## 💬 Rejoindre la Discussion
 

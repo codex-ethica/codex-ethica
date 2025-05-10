@@ -13,8 +13,6 @@ Ce document explore les racines philosophiques et les inspirations intellectuell
 *   **Déclaration Universelle des Droits de l'Homme (1948) :** L'article premier proclame : "Tous les êtres humains naissent libres et égaux en dignité et en droits." Ce texte fondamental de l'éthique contemporaine fait de la dignité la pierre angulaire des droits humains.
 *   **Martha Nussbaum & Amartya Sen :** Leur approche par les "capabilités" vise à définir les conditions d'une vie véritablement humaine et digne, en s'assurant que chaque personne ait les moyens réels de développer ses potentialités fondamentales. (Cf. Nussbaum, *Les frontières de la justice* ; Sen, *L'Idée de justice*).
 
----
-
 ## 2. Ne cause aucun tort.
 *Le fondement de toute justice commence par l'absence de violence.*
 
@@ -24,8 +22,6 @@ Ce document explore les racines philosophiques et les inspirations intellectuell
 *   **Ruwen Ogien :** Promoteur d'une "morale minimale" centrée sur le devoir de ne pas nuire injustement à autrui, et sur l'égale considération des intérêts de chacun. Il critique le paternalisme moral et défend une éthique laïque focalisée sur la prévention des torts. (Cf. *La morale minimale*).
 *   **Mahatma Gandhi :** Le principe de non-violence (Ahimsa) est central dans sa philosophie et son action. Il s'agit non seulement de l'absence de violence physique, mais aussi de violence en parole ou en pensée. La tagline fait écho à cette idée que l'absence de violence est une condition première de la justice. (Cf. *Tous les hommes sont frères*).
 *   **Éthiques médicales (Primum non nocere) :** Bien que non listé explicitement dans [references.md](references.md), le principe "D'abord, ne pas nuire" est un fondement de l'éthique médicale qui a une portée universelle et renforce cette idée.
-
----
 
 ## 3. Pense par toi-même, défie les dogmes.
 *Doute, questionne, vérifie. La vérité n'a rien à craindre du doute.*
@@ -38,8 +34,6 @@ Ce document explore les racines philosophiques et les inspirations intellectuell
 *   **Karl Popper :** Son concept de "rationalisme critique" et sa défense de la "société ouverte" impliquent une remise en question constante de nos théories et de nos certitudes. La science progresse par réfutations, et la vérité est approchée par l'élimination des erreurs. La tagline "La vérité n'a rien à craindre du doute" est très poppérienne. (Cf. *La société ouverte et ses ennemis*).
 *   **Albert Camus :** Sa philosophie de la révolte est aussi une révolte contre les conformismes de pensée et les idéologies totalisantes qui nient la complexité du réel et la liberté individuelle. (Cf. *L'Homme révolté*).
 
----
-
 ## 4. Dialogue pour comprendre, unis-toi pour construire.
 *L'écoute mutuelle éclaire, l'effort partagé bâtit l'avenir.*
 
@@ -49,8 +43,6 @@ Ce document explore les racines philosophiques et les inspirations intellectuell
 *   **John Rawls :** Sa notion de "raison publique" et la procédure du "consensus par recoupement" dans une société pluraliste soulignent l'importance de trouver des bases d'accord communes à travers le dialogue entre des doctrines compréhensives raisonnables. (Cf. *Libéralisme politique*).
 *   **Traditions de sagesse du monde :** Des concepts comme l'**Ubuntu** ("Je suis parce que nous sommes") en Afrique australe, ou le **Buen Vivir** (Vivre Bien) andin, mettent l'accent sur l'interdépendance, la communauté et la construction collective du bien-être, impliquant dialogue et effort partagé.
 *   **Hannah Arendt :** Sa valorisation de l'espace public comme lieu de parole et d'action, où les individus se révèlent les uns aux autres et construisent ensemble un monde commun, résonne avec ce principe. (Cf. *Condition de l'homme moderne*).
-
----
 
 ## 5. Sois honnête et humble dans ta quête de vérité.
 *L'humilité intellectuelle est une forme de lucidité. Admets ton ignorance pour mieux apprendre.*
@@ -62,8 +54,6 @@ Ce document explore les racines philosophiques et les inspirations intellectuell
 *   **Karl Popper :** Le faillibilisme poppérien, l'idée que toute connaissance scientifique est conjecturale et potentiellement réfutable, encourage une attitude d'humilité face à nos théories et une ouverture à leur révision.
 *   **Confucius :** L'accent mis sur l'étude continue, la rectification de soi et la reconnaissance de ses propres limites pour progresser dans la voie (Dao) rejoint cette idée d'honnêteté et d'humilité intellectuelle. (Cf. *Les Entretiens*).
 
----
-
 ## 6. Sois libre, et défends la liberté de tous.
 *Elle est le souffle de la dignité humaine, et n'a de sens que partagée.*
 
@@ -73,8 +63,6 @@ Ce document explore les racines philosophiques et les inspirations intellectuell
 *   **Les Lumières (Rousseau, Kant) :** La liberté est une valeur centrale des Lumières. Pour Rousseau, la vraie liberté est l'autonomie, l'obéissance à la loi qu'on s'est prescrite. Pour Kant, la liberté est un postulat de la raison pratique, indissociable de la moralité.
 *   **Jean-Paul Sartre :** L'existentialisme sartrien place la liberté radicale au cœur de la condition humaine ("l'homme est condamné à être libre"), impliquant une responsabilité totale de ses choix et de ses actes. (Cf. *L'Être et le Néant*, *L'existentialisme est un humanisme*).
 *   **Déclaration Universelle des Droits de l'Homme (1948) :** De nombreux articles proclament les libertés fondamentales (liberté de pensée, de conscience, de religion, d'opinion, d'expression, etc.) et leur caractère universel.
-
----
 
 ## 7. Affronte l'injustice, œuvre pour un monde équitable.
 *Ne te résigne jamais. La justice se gagne par l'engagement de tous.*
@@ -86,8 +74,6 @@ Ce document explore les racines philosophiques et les inspirations intellectuell
 *   **Albert Camus :** Sa philosophie de la révolte est un appel à ne pas se résigner face à l'absurdité et à l'injustice du monde, mais à s'engager dans une lutte solidaire pour plus de justice et de dignité humaine. (Cf. *L'Homme révolté*, *La Peste*).
 *   **Figures de la lutte pour la justice sociale :** Bien que non tous listés directement dans *references.md*, l'esprit de ce principe est incarné par des figures comme Mahatma Gandhi (Satyagraha comme force de la vérité et de l'amour dans la lutte pour la justice), Martin Luther King Jr., Nelson Mandela, et tous ceux qui ont œuvré pour les droits civiques et l'équité.
 
----
-
 ## 8. Sois responsable : tes actes t'appartiennent.
 *Nul Dieu, nulle tradition ne peut justifier l'irresponsabilité.*
 
@@ -97,8 +83,6 @@ Ce document explore les racines philosophiques et les inspirations intellectuell
 *   **Jean-Paul Sartre :** La liberté radicale de l'existentialisme s'accompagne d'une responsabilité tout aussi radicale. Puisque nous sommes libres de nous définir, nous sommes responsables de ce que nous sommes et de ce que nous faisons, sans excuses ni déterminismes extérieurs.
 *   **Emmanuel Kant :** L'autonomie morale kantienne, la capacité de se donner à soi-même sa propre loi, implique la responsabilité de ses choix. Agir moralement, c'est agir selon un devoir que l'on reconnaît par la raison, et assumer les implications de cette action.
 *   **Éthiques de la vertu (Aristote) :** Bien que l'accent soit mis sur le caractère, la culture des vertus (courage, tempérance, justice, etc.) implique la reconnaissance que nos actions façonnent notre caractère et que nous sommes responsables de cultiver ces dispositions. (Cf. *Éthique à Nicomaque*).
-
----
 
 ## 9. Prends soin du monde, protège le vivant et l'avenir.
 *Notre Terre est un héritage fragile, notre destin est lié à celui de tous les êtres.*
@@ -110,8 +94,6 @@ Ce document explore les racines philosophiques et les inspirations intellectuell
 *   **Sagesses indigènes et traditions orientales :** De nombreuses traditions de sagesse du monde (comme celles évoquées pour l'Ubuntu, le Buen Vivir, ou le Taoïsme avec Laozi) insistent sur l'interconnexion entre l'humain et la nature, et sur le respect dû à l'environnement comme condition d'une vie harmonieuse. (Cf. Laozi, *Dao De Jing*).
 *   **Rapport Brundtland (Notre Avenir à Tous, 1987) :** Bien que de nature politique, ce rapport a popularisé le concept de "développement durable", défini comme un développement qui répond aux besoins du présent sans compromettre la capacité des générations futures de répondre aux leurs. Cela incarne l'idée de responsabilité envers l'avenir et la planète.
 
----
-
 ## 10. Fais le bien autour de toi, ici et maintenant.
 *Car c'est ici que tout commence — et que chaque geste conscient peut améliorer le monde.*
 
@@ -122,7 +104,5 @@ Ce document explore les racines philosophiques et les inspirations intellectuell
 *   **Voltaire :** La fameuse conclusion de *Candide*, "Il faut cultiver notre jardin", peut être interprétée comme un appel à l'action concrète, locale et pragmatique pour améliorer le monde, plutôt que de se perdre en spéculations métaphysiques stériles. C'est un appel à l'engagement tangible.
 *   **Éthique du *care* (sollicitude) :** Bien que développée plus récemment par des philosophes comme Carol Gilligan, Joan Tronto, ce courant met en avant l'importance des relations, de l'attention à l'autre, de la réponse aux besoins concrets d'autrui, ce qui rejoint l'idée de "faire le bien autour de soi".
 *   **Philosophies pragmatistes (Dewey) :** L'accent mis sur l'expérience, l'action et la résolution de problèmes concrets dans le monde réel peut aussi éclairer ce principe.
-
----
 
 _Ce document est une invitation à l'approfondissement. Les références citées ne sont qu'un point de départ pour explorer la richesse des traditions philosophiques qui peuvent nourrir une éthique séculière, humaniste et responsable._ 

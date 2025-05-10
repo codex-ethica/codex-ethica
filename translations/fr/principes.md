@@ -8,6 +8,8 @@
 
 Pour une exploration plus détaillée des inspirations philosophiques de ces principes, consultez le document [Fondements Philosophiques des Dix Principes](fondements_des_principes.md).
 
+---
+
 ## 1. Respecte la dignité de chacun.
 *En toute personne, une valeur égale et absolue.*
 
