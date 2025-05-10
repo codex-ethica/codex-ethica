@@ -1,37 +1,130 @@
 /* assets/css/custom.css */
 
+/* 1. Body and Base Typography (Lora) */
 body {
-    font-family: 'Merriweather', serif;
-    line-height: 1.6; /* Improves readability for serif fonts */
+    font-family: 'Lora', serif;
+    font-size: 1rem; /* Base font size, typically 16px */
+    line-height: 1.75; /* Generous line height for Lora's readability in long texts */
+    font-weight: 400; /* Standard weight for Lora */
+    color: #212529; /* Bootstrap's default body color for good contrast */
+    -webkit-font-smoothing: antialiased; /* Improve font rendering on WebKit */
+    -moz-osx-font-smoothing: grayscale; /* Improve font rendering on Firefox */
 }
 
+/* 2. Headings Typography (Playfair Display) */
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Merriweather', serif;
-    font-weight: 700; /* Or another weight if you prefer, e.g., 900 for very bold titles */
+    font-family: 'Playfair Display', serif;
+    line-height: 1.3; /* Slightly tighter line height for display headings */
+    margin-top: 2rem; /* More space above headings */
+    margin-bottom: 1rem; /* Space below headings */
+    font-feature-settings: "liga" on, "onum" on; /* Enable common ligatures and oldstyle figures for Playfair */
 }
 
-/* Optional: Adjust link colors for the dark navbar if needed */
-.navbar-dark .navbar-nav .nav-link {
-    color: rgba(255, 255, 255, 0.75); /* Slightly more visible than default Bootstrap for dark navbar */
+h1 {
+    font-size: 2.75rem; /* Large and impactful */
+    font-weight: 700;
+    letter-spacing: -0.02em; /* Subtle tightening for large Playfair */
 }
 
-.navbar-dark .navbar-nav .nav-link:hover,
-.navbar-dark .navbar-nav .nav-link:focus {
-    color: rgba(255, 255, 255, 1);
+h2 {
+    font-size: 2.25rem;
+    font-weight: 700;
+    letter-spacing: -0.01em;
+}
+
+h3 {
+    font-size: 1.75rem;
+    font-weight: 600; /* A bit lighter for sub-hierarchy */
+}
+
+h4 {
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+h5 {
+    font-size: 1.25rem;
+    font-weight: 500; /* Maintain some distinction */
+    text-transform: uppercase; /* Common for smaller utility headings */
+    letter-spacing: 0.05em; /* Slightly open for uppercase */
+}
+
+h6 {
+    font-size: 1rem;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+/* 3. Paragraphs and Links */
+p {
+    margin-bottom: 1.25rem; /* Consistent spacing after paragraphs */
+}
+
+a {
+    color: #0d6efd; /* Bootstrap's default link blue, highly accessible */
+    text-decoration: none; /* Cleaner look, like many editorial sites */
+}
+
+a:hover,
+a:focus {
+    color: #0a58ca; /* Darker blue on hover */
+    text-decoration: underline; /* Underline on hover for clarity */
+}
+
+/* 4. Navbar Specifics */
+.navbar-brand {
+    font-family: 'Playfair Display', serif;
+    font-weight: 700;
+    font-size: 1.6rem; /* Make brand slightly larger and distinct */
+    letter-spacing: -0.01em;
+}
+
+/* Using Lora for nav links for consistency with body, could be a clean sans-serif too */
+.navbar-nav .nav-link {
+    font-family: 'Lora', serif;
+    font-size: 0.95rem; /* Slightly smaller for UI elements */
+    font-weight: 400; /* Regular Lora for nav links */
 }
 
 .navbar-dark .navbar-nav .nav-link.active {
-    color: #fff;
-    font-weight: 500; /* Or bold, e.g., 700 */
+    font-weight: 700; /* Bold for active Lora nav link */
 }
 
-.navbar-dark .navbar-brand {
-    color: #fff;
+
+/* 5. Main Content Area Enhancement */
+main.container-lg {
+    padding-top: 2rem; /* Add some space between navbar and content */
+    padding-bottom: 2rem; /* Add some space before footer */
 }
 
-.navbar-dark .navbar-brand:hover,
-.navbar-dark .navbar-brand:focus {
-    color: #fff;
+/* 6. Horizontal Rule */
+hr {
+    border-top: 1px solid #dee2e6; /* Standard Bootstrap hr color */
+    margin-top: 2.5rem;
+    margin-bottom: 2.5rem;
 }
 
-/* Further customizations can be added here */ 
+/* 7. Responsive adjustments */
+@media (max-width: 768px) {
+    body {
+        line-height: 1.7; /* Slightly adjust for smaller screens if needed */
+    }
+    h1 {
+        font-size: 2.25rem;
+    }
+    h2 {
+        font-size: 1.85rem;
+    }
+    h3 {
+        font-size: 1.5rem;
+    }
+    h4 {
+        font-size: 1.3rem;
+    }
+    .navbar-brand {
+        font-size: 1.4rem;
+    }
+}
+
+/* Further refinements welcome! */ 
