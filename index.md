@@ -1,51 +1,97 @@
 ---
 layout: default
-title: Codex Ethica - Charting the Course for Ethical Technology
+title: Codex Ethica - A Secular Moral Framework
+permalink: / # Sets this as the root page
 ---
 
-<div class="text-center mb-5">
+<div class="text-center pt-4 pb-5">
   <h1 class="display-4">Codex Ethica</h1>
-  <p class="lead">An open initiative to collaboratively define and promote ethical principles for the digital age and artificial intelligence.</p>
+  <p class="lead mb-4">A public, collaborative, and open-source ethical framework based on reason, mutual respect, and shared responsibility — not divine authority.</p>
+  <p><a href="{{ '/manifesto/' | relative_url }}" class="btn btn-primary btn-lg">Read Our Manifesto</a></p>
 </div>
 
-## Our Vision
-{: .mb-3 }
+<div class="container">
+  <div class="row mb-4">
+    <div class="col-md-8 mx-auto text-center">
+      <p class="h5 mb-4">Codex Ethica aims to provide a robust moral compass for individuals seeking ethical guidance outside of traditional religious doctrines, and for all who wish to contribute to a more just, enlightened, and supportive society.</p>
+    </div>
+  </div>
 
-We envision a future where technology universally serves humanity, upholding dignity, ensuring fairness, and fostering a just and equitable global society. Codex Ethica aims to be a foundational guide in realizing this vision.
+  <hr class="my-5">
 
-## About Codex Ethica
-{: .mb-3 }
+  <div class="row">
+    <div class="col-12 text-center mb-4">
+      <h2>How to Approach Codex Ethica: A Reading Guide</h2>
+      <p>To help you discover Codex Ethica, we suggest a progressive approach. Each document plays a role and offers a unique perspective:</p>
+    </div>
+  </div>
 
-Codex Ethica is a dynamic, open-source project dedicated to the critical exploration, development, and dissemination of ethical frameworks tailored for the rapidly evolving digital landscape. As advancements in artificial intelligence, data science, and interconnected technologies accelerate, a clear, actionable, and globally relevant set of ethical guidelines becomes paramount.
+  <div class="row justify-content-center">
+    <div class="col-md-5 mb-4">
+      <div class="card h-100">
+        <div class="card-body">
+          <h5 class="card-title">1. Start with the Spirit</h5>
+          <p class="card-text">For a quick first look and to grasp the project's essence, we recommend starting with the <a href="{{ '/manifesto/' | relative_url }}">Manifesto</a>. It outlines our founding call: why and how we envision building a morality without gods.</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-5 mb-4">
+      <div class="card h-100">
+        <div class="card-body">
+          <h5 class="card-title">2. Explore the Practical Foundations</h5>
+          <p class="card-text">Next, familiarize yourself with the <a href="{{ '/principles/' | relative_url }}">Ten Key Principles</a>. These are designed as a concrete compass for an ethical life. Their philosophical underpinnings are explored on each principle's dedicated page.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="row justify-content-center">
+    <div class="col-md-5 mb-4">
+      <div class="card h-100">
+        <div class="card-body">
+          <h5 class="card-title">3. Dive Deeper</h5>
+          <p class="card-text">The most comprehensive document is our <a href="{{ '/philosophy/' | relative_url }}">Philosophy</a>. It lays out the overall theoretical framework, discusses case studies, ethical dilemmas, and proposes a methodology for addressing disagreements.</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-5 mb-4">
+      <div class="card h-100">
+        <div class="card-body">
+          <h5 class="card-title">4. Address Questions</h5>
+          <p class="card-text">If you're wondering about common objections or wish to see how this ethic dialogues with critiques, our <a href="{{ '/objections/' | relative_url }}">Responses to Objections</a> offers reasoned perspectives.</p>
+        </div>
+      </div>
+    </div>
+  </div>
 
-This initiative provides a collaborative platform for experts, developers, policymakers, and the public to contribute to a living document—a codex—that can adapt to new challenges and insights. Our goal is to move beyond abstract discussions to create practical, implementable principles that can guide responsible innovation.
+  <div class="row mt-4">
+    <div class="col-12 text-center">
+      <p>Further resources, including <a href="{{ '/references/' | relative_url }}">Bibliographical References</a> and our <a href="{{ '/contributing/' | relative_url }}">Contributing Guide</a>, are also available.</p>
+    </div>
+  </div>
 
-## Our Mission
-{: .mb-3 }
+  <hr class="my-5">
 
-To collaboratively forge and champion a comprehensive, evolving codex of ethical principles that:
-*   **Guides** the responsible design, development, and deployment of digital technologies and AI.
-*   **Empowers** individuals and organizations to make ethically sound decisions.
-*   **Promotes** transparency, accountability, and fairness in technological systems.
-*   **Fosters** a global dialogue on the ethical implications of technology.
+  <div class="row">
+    <div class="col-md-8 mx-auto">
+      <h2 class="text-center mb-4">Key Features</h2>
+      <ul class="list-group list-group-flush">
+        <li class="list-group-item">A clear and rigorous alternative to religious morality.</li>
+        <li class="list-group-item">A foundation for humanist, secular, and civic ethics.</li>
+        <li class="list-group-item">A set of <a href="{{ '/principles/' | relative_url }}">10 core principles</a> for living ethically without dogma.</li>
+        <li class="list-group-item">Draws from diverse philosophical traditions and contemporary thinkers.</li>
+        <li class="list-group-item">Open-source and collaborative: <a href="{{ '/contributing/' | relative_url }}">your contributions are welcome</a>.</li>
+      </ul>
+    </div>
+  </div>
 
-## Key Focus Areas
-{: .mb-3 }
+  <hr class="my-5">
 
-Our initial exploration will center on, but not be limited to, the following critical domains:
+  <div class="text-center mt-5 mb-4">
+    <p class="lead">Codex Ethica is not a religion. Not a dogma. Not a brand.</p>
+    <p><strong>It is a tool for those who believe in human reason, dignity, and freedom. It's yours. Use it. Share it. Improve it.</strong></p>
+  </div>
 
-*   **Human Dignity & Autonomy:** Ensuring technology respects and enhances human rights, freedom, and self-determination.
-*   **Transparency & Explainability:** Promoting clarity in how algorithmic systems operate and make decisions.
-*   **Fairness & Non-Discrimination:** Actively working to identify and mitigate biases in AI and digital systems.
-*   **Privacy & Data Governance:** Advocating for robust data protection and individual control over personal information.
-*   **Accountability & Responsibility:** Establishing clear lines of responsibility for the impact of technological systems.
-*   **Security & Safety:** Prioritizing the physical, mental, and digital well-being of individuals and society.
-*   **Sustainability & Societal Impact:** Considering the long-term environmental and societal consequences of technological development.
-
-## Get Involved
-{: .mb-3 }
-
-Codex Ethica is a community-driven effort. We believe that the most robust ethical frameworks emerge from diverse perspectives and open collaboration. We will soon outline ways you can contribute to this project.
+</div>
 
 ---
 
