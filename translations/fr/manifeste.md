@@ -1,4 +1,4 @@
-# 📢 Manifeste – Pour une morale sans dieux
+# Manifeste – Pour une morale sans dieux
 
 ---
 

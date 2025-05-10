@@ -1,4 +1,4 @@
-# 🧠 Fondements philosophiques – Codex Ethica
+# Fondements philosophiques – Codex Ethica
 
 ## Introduction
 

@@ -1,4 +1,4 @@
-# ❓ Répondre aux objections – Codex Ethica
+# Répondre aux objections – Codex Ethica
 
 Ce projet, présenté dans notre [Manifeste pour une morale sans dieux](manifeste.md), suscite naturellement des questions et des critiques.
 Pour les fondements philosophiques et des réponses argumentées en profondeur, voir le document [`philosophie.md`](philosophie.md).

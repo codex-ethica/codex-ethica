@@ -1,4 +1,4 @@
-# 📜 Dix principes pour une morale sans dieux
+# Dix principes pour une morale sans dieux
 
 *Une morale sans dogme. Un humanisme sans illusion.*
 
