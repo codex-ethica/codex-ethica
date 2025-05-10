@@ -4,37 +4,37 @@
 
 ---
 
-**Ces principes sont une boussole, pas un code figé. Ils sont ouverts à la discussion, à l’adaptation et à l’enrichissement collectif.**
+**Des repères pour penser et agir librement. À chacun de les faire vivre, en conscience.**
 
 ---
 
-**1. Respecte la dignité de chacun.**  
-*Chacun mérite considération, sans condition.*
+1.  **Respecte la dignité de chacun.**
+    *   *En toute personne, une valeur égale et absolue.*
 
-**2. Ne cause aucun tort.**  
-*Agis sans nuire à autrui, ni par la violence ni par l’indifférence.*
+2.  **Ne cause aucun tort.**
+    *   *Le fondement de toute justice commence par l’absence de violence.*
 
-**3. Défends la liberté de tous.**  
-*Protéger la liberté d’autrui, c’est garantir la tienne.*
+3.  **Pense par toi-même, défie les dogmes.**
+    *   *Doute, questionne, vérifie. La vérité n’a rien à craindre du doute.*
 
-**4. Pense par toi-même.**  
-*Fais-toi ta propre opinion, sans te contenter de suivre les autres.*
+4.  **Dialogue pour comprendre, unis-toi pour construire.**
+    *   *L'écoute mutuelle éclaire, l'effort partagé bâtit l'avenir.*
 
-**5. Remets en question les certitudes faciles.**  
-*N’accepte jamais une idée parce qu’elle est populaire ou confortable.*
+5.  **Sois honnête et humble dans ta quête de vérité.**
+    *   *L’humilité intellectuelle est une forme de lucidité. Admets ton ignorance pour mieux apprendre.*
 
-**6. Sois honnête sur ce que tu sais, et humble sur ce que tu ignores.**  
-*Reconnais tes limites et ne prétends pas tout savoir.*
+6.  **Sois libre, et défends la liberté de tous.**
+    *   *Elle est le souffle de la dignité humaine, et n’a de sens que partagée.*
 
-**7. Assume la responsabilité de tes actes.**  
-*Tes choix t’appartiennent, assume-les pleinement.*
+7.  **Affronte l'injustice, œuvre pour un monde équitable.**
+    *   *Ne te résigne jamais. La justice se gagne par l'engagement de tous.*
 
-**8. Soutiens les plus vulnérables.**  
-*Aide ceux qui ne peuvent se défendre seuls.*
+8.  **Sois responsable : tes actes t’appartiennent.**
+    *   *Nul Dieu, nulle tradition ne peut justifier l’irresponsabilité.*
 
-**9. Protège la planète et les générations futures.**  
-*Préserve l’environnement pour tous, aujourd’hui et demain.*
+9.  **Prends soin du monde, protège le vivant et l'avenir.**
+    *   *Notre Terre est un héritage fragile, notre destin est lié à celui de tous les êtres.*
 
-**10. Fais le bien autour de toi, ici et maintenant.**  
-*Chaque geste compte pour améliorer le monde.*
+10. **Fais le bien autour de toi, ici et maintenant.**
+    *   *Car c’est ici que tout commence — et que chaque geste conscient peut améliorer le monde.*
 
