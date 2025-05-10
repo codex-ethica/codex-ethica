@@ -42,7 +42,7 @@ Whether you're a translator, writer, designer, philosopher, teacher, or curious 
 
 ## 🧾 License
 
-All contributions fall under the [Creative Commons BY-SA 4.0](LICENSE.md) license.
+All contributions fall under the [Creative Commons BY-SA 4.0](LICENSE.txt) license.
 
 ---
 

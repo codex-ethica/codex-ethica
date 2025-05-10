@@ -42,7 +42,7 @@ Que vous soyez traducteur·rice, rédacteur·rice, enseignant·e, philosophe, de
 
 ## 🧾 Licence
 
-Toutes les contributions sont placées sous la licence [Creative Commons BY-SA 4.0](LICENSE.md).
+Toutes les contributions sont placées sous la licence [Creative Commons BY-SA 4.0](LICENSE.txt).
 
 ---
 
