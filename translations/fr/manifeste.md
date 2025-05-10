@@ -11,8 +11,6 @@ Pour éclairer nos choix, les enseignements d'un passé lointain, souvent contra
 Aujourd'hui, nous avons indispensablement besoin de clarté dans le discernement, de rigueur dans les principes et de courage face à nos responsabilités.
 Et cette éthique d'aujourd'hui, **c'est à nous, collectivement, de la construire** (pour une exploration de ces fondations, voir notre [démarche philosophique](philosophie.md)), dans le sillage de tous ceux qui, des Lumières à nos jours, ont affirmé la primauté de la conscience humaine.
 
----
-
 ## 2. Les limites et l'apport des fondements religieux de la morale
 
 Les grandes traditions religieuses ont indéniablement marqué l'histoire, offrant des repères à des milliards d'individus. Toutefois, leurs textes fondateurs portent l'empreinte d'époques révolues. On y lit encore :
@@ -31,8 +29,6 @@ L'histoire des progrès moraux, comme l'ont souligné des esprits lucides tels q
 En dernier ressort, une morale fondée uniquement sur la crainte d'un jugement divin ou l'attente d'un au-delà hypothétique **manque sa cible : elle cultive la soumission là où devrait s'épanouir la responsabilité.** Une éthique digne de ce nom est un choix libre et assumé.
 Face à l'injustice ou à l'arbitraire, comme le rappelait **Albert Camus**, l'être humain se grandit non par la soumission, mais par la révolte au nom de la justice.
 
----
-
 ## 3. Une alternative claire : la raison, le respect et la responsabilité
 
 Face aux impasses d'hier, nous affirmons la vitalité d'une éthique accessible à chaque conscience, bâtie sur trois piliers indissociables :
@@ -46,8 +42,6 @@ Face aux impasses d'hier, nous affirmons la vitalité d'une éthique accessible 
 Cette éthique se veut **laïque, ouverte au débat, et en constante évolution**. Elle ne promet pas de salut ; elle appelle à l'effort lucide. Elle ne cherche pas la soumission, elle vise l'autonomie responsable.
 Elle rejoint la perspective des **"capabilités" chère à Amartya Sen et Martha Nussbaum** : œuvrer pour que chaque personne ait les moyens réels de mener une vie digne et choisie, libre de toute entrave dogmatique à ses droits essentiels.
 
----
-
 ## 4. De la morale individuelle à la transformation sociale
 
 Une éthique vécue n'est jamais un acte solitaire ; elle porte en elle la force de transformer le monde.
@@ -58,8 +52,6 @@ C'est pourquoi, en incarnant activement une éthique de raison, de respect et de
 Les exemples abondent : du droit de vote pour les femmes au mariage pour tous, de la fin de la ségrégation à l'interdiction de la peine de mort dans de nombreux pays, ce sont d'abord des convictions citoyennes, des mouvements de la société civile qui ont ouvert la voie aux législateurs.
 Ainsi, l'essor et le partage d'une morale laïque, fondée sur l'argumentation et le respect mutuel, constituent un levier puissant pour un progrès social profond, désirable et durable.
 
----
-
 ## 5. Dix principes pour une vie juste
 
 En guise de socle partagé, adaptable et aisément transmissible, nous avançons ces dix principes :
@@ -69,8 +61,6 @@ Ces orientations ne se réclament d'aucune croyance particulière et ne visent �
 Chacun peut se les approprier, les nourrir de sa réflexion, les diffuser, les ajuster à sa mesure.
 Ils se veulent une **boussole pour éclairer nos pas, ici et maintenant, avec discernement, intégrité et résolution.**
 
----
-
 ## 6. Pour une éthique de dialogue et d'ouverture
 
 Rejeter les dogmes ne signifie nullement rejeter l'autre.
@@ -79,8 +69,6 @@ C'est aspirer à une société **où le ciment des valeurs publiques se forge da
 Nous reconnaissons la pluralité des convictions et l'apport historique des traditions spirituelles. Néanmoins, une communauté véritablement inclusive requiert un socle éthique commun, ancré dans la raison, le respect mutuel et la liberté de conscience.
 
 C'est pourquoi nous convions chaque personne, qu'elle se réclame d'une foi ou d'aucune, à enrichir ce dialogue (voir aussi notre [réponse aux objections courantes](objections.md)) et à œuvrer ensemble à cette éthique partagée, fondation d'une société plus équitable, accueillante et résolument tournée vers l'avenir.
-
----
 
 ## 7. Une société éthique sans dieux : une perspective réalisable
 
