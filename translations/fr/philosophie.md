@@ -71,7 +71,7 @@ Reconnaître ce qui est moralement juste ne garantit pas toujours que l'on agira
 -   **Des institutions et des environnements sociaux** qui encouragent et facilitent les comportements éthiques plutôt que de les entraver ou de favoriser leurs contraires.
 Ainsi, l'éthique ne se limite pas à un code de règles, mais englobe aussi la formation du caractère et la création de conditions favorables à l'action juste.
 
-(Nous pourrions ajouter ici une réflexion sur la "faiblesse de la volonté" lors d'une prochaine passe.)
+Cette tension entre le jugement moral et l'action effective est un aspect fondamental de la condition humaine. L'akrasia peut sourdre de multiples facteurs : la force d'attraction des désirs immédiats, la submersion par des émotions intenses, le poids d'habitudes ancrées, ou encore une intériorisation imparfaite des principes que l'on professe pourtant intellectuellement. Une éthique laïque et rationnelle, loin de prétendre à une maîtrise parfaite de soi par la seule raison, reconnaît cette faillibilité. Elle insiste sur le fait que la constance morale est moins un état atteint qu'un effort continu, une pratique soutenue par les éléments mentionnés : le développement patient des vertus, une éducation qui aiguise non seulement l'intellect mais aussi la sensibilité morale, le soutien de communautés partageant des valeurs similaires, et l'établissement de structures sociales qui encouragent et récompensent les conduites éthiques. C'est un cheminement où la lucidité sur ses propres faiblesses est le premier pas vers leur dépassement progressif.
 
 ## 6. Études de cas emblématiques
 
@@ -174,9 +174,9 @@ Il est essentiel de reconnaître que, même avec la méthodologie la plus rigour
 
 C'est alors que le **cadre démocratique et l'État de droit**, fondés sur le respect intransgressible des **droits humains fondamentaux**, jouent un rôle crucial de dernier ressort. Ces droits (liberté de conscience, égalité devant la loi, dignité de la personne, interdiction des traitements inhumains, etc.) constituent un socle non négociable qui protège les individus et les minorités, même lorsque la majorité adopte des lois ou des politiques qui heurtent leurs convictions profondes. La décision démocratique, bien qu'imparfaite, devient alors le mécanisme légitime pour trancher, tout en garantissant la possibilité de continuer le débat et de réviser les décisions à l'avenir.
 
-- **Exemples d'application** : les débats de bioéthique (sur la fin de vie, l'assistance médicale à la procréation), les processus de concertation citoyenne pour des projets ayant un impact environnemental majeur, l'élaboration de chartes éthiques pour l'intelligence artificielle, la protection des données personnelles.
+Il convient toutefois de reconnaître avec humilité que même ce recours au cadre démocratique et aux droits fondamentaux ne saurait éteindre toutes les sources de désaccord moral profond. Pour des questions touchant à l'intime des convictions sur le sens de la vie, la mort, ou la nature humaine, des clivages peuvent persister, créant des tensions durables au sein de la société. Le Codex Ethica, en tant que démarche rationnelle et dialogique, ne prétend pas détenir la clé d'une harmonie sociale parfaite et définitive. Son ambition est plutôt de fournir les outils pour gérer ces différends de la manière la plus respectueuse et la moins destructrice possible, en maintenant ouverts les canaux du dialogue et en protégeant les droits de chacun, y compris le droit d'exprimer et de vivre selon ses convictions profondes, dans les limites du respect de celles d'autrui. Il s'agit alors moins d'éliminer le désaccord que d'apprendre à "vivre avec" de manière civilisée, en acceptant une part d'irrésolu comme constitutive d'une société pluraliste.
 
-(Nous pourrions ajouter ici une reconnaissance explicite des limites de cette approche face à des désaccords moraux absolument fondamentaux lors d'une prochaine passe.)
+- **Exemples d'application** : les débats de bioéthique (sur la fin de vie, l'assistance médicale à la procréation), les processus de concertation citoyenne pour des projets ayant un impact environnemental majeur, l'élaboration de chartes éthiques pour l'intelligence artificielle, la protection des données personnelles.
 
 ## 10. Méthodologie de gestion des désaccords
 
@@ -192,8 +192,6 @@ Même au sein d'un cadre éthique laïque et rationnel, les désaccords sur des 
 - **Arbitrage démocratique et respect des droits fondamentaux** : Lorsque le consensus est impossible, la décision majoritaire peut s'imposer dans un cadre démocratique. Cependant, cette décision doit toujours être encadrée par le respect intransgressible des droits fondamentaux de chaque personne (liberté de conscience, égalité, dignité, etc.). Des mécanismes de recours et des institutions indépendantes (comme les cours constitutionnelles ou les médiateurs) doivent garantir l'équité et la protection contre une éventuelle "tyrannie de la majorité".
 - **Principe de faillibilité et révisabilité** (parfois appelé "humilité épistémique" : la conscience que notre savoir est limité et potentiellement erroné) : Toute norme ou décision issue de ce processus doit être considérée comme potentiellement révisable à la lumière de nouvelles informations, expériences ou arguments. Une société apprenante est une société qui accepte de remettre en question ses propres conclusions.
 - **Exemples d'application** : les débats de bioéthique (sur la fin de vie, l'assistance médicale à la procréation), les processus de concertation citoyenne pour des projets ayant un impact environnemental majeur, l'élaboration de chartes éthiques pour l'intelligence artificielle, la protection des données personnelles.
-
-(Nous pourrions ajouter ici une reconnaissance explicite des limites de cette approche face à des désaccords moraux absolument fondamentaux lors d'une prochaine passe.)
 
 ## 11. Complexité de la transformation sociale et rôle de l'éthique
 
