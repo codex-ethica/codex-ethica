@@ -8,19 +8,26 @@ Vous trouverez ici les versions françaises des documents clés qui structurent 
 
 ---
 
-## 📜 Les Piliers du Codex Ethica
+## 🧭 Comment Aborder le Codex Ethica : Notre Guide de Lecture
 
-Notre corpus de textes s'articule autour des documents suivants :
+Pour vous accompagner dans la découverte du Codex Ethica, nous vous proposons une approche progressive. Chaque document a son rôle et sa perspective, vous permettant d'explorer le projet selon votre intérêt et le temps dont vous disposez :
 
-| Document                                           | Description                                                                 |
-|----------------------------------------------------|-----------------------------------------------------------------------------|
-| [`manifeste.md`](manifeste.md)                     | Notre appel fondateur : pourquoi et comment bâtir une morale sans dieux.     |
-| [`principes.md`](principes.md)                     | Les 10 principes clés proposés comme boussole pour une vie éthique.           |
-| [`fondements_des_principes.md`](fondements_des_principes.md) | L'ancrage philosophique détaillé de chacun des 10 principes.                |
-| [`philosophie.md`](philosophie.md)                 | Le cadre théorique global, les influences et la démarche intellectuelle.      |
-| [`objections.md`](objections.md)                   | Réponses argumentées aux questions et critiques fréquentes.                    |
-| [`references.md`](references.md)                   | Bibliographie des œuvres et auteurs inspirant le projet.                     |
-| [`CONTRIBUTING.md`](CONTRIBUTING.md)               | Comment participer à l'amélioration et à la diffusion de ces textes.        |
+1.  **Pour une première découverte rapide et l'esprit du projet :**
+    *   Nous vous suggérons de commencer par le **[`manifeste.md`](manifeste.md)**. Il expose notre appel fondateur : pourquoi et comment nous envisageons de bâtir une morale sans dieux. C'est le point de départ idéal pour saisir nos intentions.
+
+2.  **Les fondations pratiques et leurs racines :**
+    *   Familiarisez-vous ensuite avec les **[`principes.md`](principes.md)**. Ces Dix Principes clés sont conçus comme une boussole concrète pour une vie éthique.
+    *   Pour comprendre l'ancrage philosophique détaillé de chacun de ces principes, consultez **[`fondements_des_principes.md`](fondements_des_principes.md)**. Ce document les relie à une riche tradition de pensée humaniste et critique.
+
+3.  **Pour une exploration approfondie et la discussion :**
+    *   Le document le plus complet est notre **[`philosophie.md`](philosophie.md)**. Il déploie le cadre théorique global du Codex Ethica, explore les convergences avec diverses traditions philosophiques mondiales, analyse des études de cas, discute des dilemmes éthiques et propose une méthodologie pour aborder les désaccords. C'est une lecture plus dense mais essentielle pour une compréhension approfondie.
+    *   Si vous vous interrogez sur les objections courantes ou si vous souhaitez voir comment cette éthique dialogue avec les critiques, nos **[`objections.md`](objections.md)** offrent des réponses argumentées.
+
+4.  **Ressources complémentaires et participation :**
+    *   Notre **[`references.md`](references.md)** recense la bibliographie des œuvres et auteurs inspirant le projet, pour ceux qui souhaitent explorer plus avant les sources intellectuelles.
+    *   Et si l'envie vous prend de participer à l'amélioration et à la diffusion de ces textes, notre **[`CONTRIBUTING.md`](CONTRIBUTING.md)** vous expliquera comment faire.
+
+Nous vous encourageons à naviguer ces documents selon vos questionnements. Bien qu'ils forment un tout cohérent, chaque partie peut aussi éclairer des aspects spécifiques de manière indépendante.
 
 ## 🌍 Notre Ambition
 
