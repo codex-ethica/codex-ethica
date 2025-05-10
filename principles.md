@@ -12,10 +12,10 @@ Our principles are living guidelines, intended to foster reflection and guide ac
 
 ---
 
-## 1. [Respect the dignity of every person.](/principles/respect-dignity/)
+## 1. [Respect the dignity of every person.](principles/01-respect-dignity.md)
 *In every person, an equal and absolute worth.*
 
-## 2. Do no harm.
+## 2. [Do no harm.](principles/02-do-no-harm.md)
 *The foundation of all justice begins with the absence of violence.*
 
 ## 3. Think for yourself, challenge dogmas.
