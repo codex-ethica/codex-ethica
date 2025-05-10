@@ -4,7 +4,7 @@ title: Contributing to Codex Ethica
 permalink: /contributing/
 ---
 
-# 🤝 Contributing to Codex Ethica
+# Contributing to Codex Ethica
 
 Thank you for your interest in contributing!  
 **Codex Ethica** is an open, secular, and collaborative project aiming to define a universal moral foundation without divine authority.
@@ -13,7 +13,7 @@ Whether you're a translator, writer, designer, philosopher, teacher, or curious 
 
 ---
 
-## ✍️ What you can contribute
+## What you can contribute
 
 - 🌍 **Translations** of the manifesto or principles
 - 🔍 **Corrections** of typos, grammar, or formatting
@@ -26,7 +26,7 @@ Whether you're a translator, writer, designer, philosopher, teacher, or curious 
 
 ---
 
-## 🌐 How to contribute
+## How to contribute
 
 1. **Fork** the repository
 2. Create a branch with a clear name (e.g. `fr-translation-update`, `fix-typos`, `add-reference-jonas`)
@@ -37,7 +37,7 @@ Whether you're a translator, writer, designer, philosopher, teacher, or curious 
 
 ---
 
-## 📄 Contribution rules
+## Contribution rules
 
 - Stay respectful and constructive.
 - Do not add religious proselytism or ideological slogans.
@@ -46,13 +46,13 @@ Whether you're a translator, writer, designer, philosopher, teacher, or curious 
 
 ---
 
-## 🧾 License
+## License
 
 All contributions fall under the [Creative Commons BY-SA 4.0](LICENSE.txt) license.
 
 ---
 
-## 🙏 Thank you
+## Thank you 🙏
 
 Every contribution counts.  
 This project belongs to no one — and to all of us.
