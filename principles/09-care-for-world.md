@@ -4,10 +4,10 @@ title: "Principle 9: Care for the world, protect the living and the future"
 permalink: /principles/care-for-world/
 ---
 
-## 9. Care for the world, protect the living and the future.
+# 9. Care for the world, protect the living and the future.
 *Our Earth is a fragile heritage; our destiny is linked to that of all beings.*
 
-### Foundations and Inspirations:
+## Foundations and Inspirations:
 
 *   **Hans Jonas:** This is the core of his *The Imperative of Responsibility*. Faced with the power of modern technology, Jonas develops a "heuristics of fear" that enjoins us to anticipate the long-term consequences of our actions on nature and future generations, and to act with prudence and solicitude.
 *   **Environmental Ethics:** This principle aligns with the broader current of environmental ethics that seeks to extend moral consideration beyond humans to the entire biosphere. Thinkers like Aldo Leopold (*A Sand County Almanac* and his concept of "Land Ethic") or Arne Naess (founder of "Deep Ecology") have contributed to this awareness, even if not explicitly in *references.md*, the spirit is there.

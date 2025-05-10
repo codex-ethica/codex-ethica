@@ -4,10 +4,10 @@ title: "Principle 8: Be responsible: your actions belong to you"
 permalink: /principles/be-responsible/
 ---
 
-## 8. Be responsible: your actions belong to you.
+# 8. Be responsible: your actions belong to you.
 *No God, no tradition can justify irresponsibility.*
 
-### Foundations and Inspirations:
+## Foundations and Inspirations:
 
 *   **Hans Jonas:** His *The Imperative of Responsibility* is a refoundation of ethics for the technological age, emphasizing our responsibility towards future generations and the survival of humanity and the biosphere. The central idea is that the capacity to act implies responsibility for the consequences of our actions.
 *   **Jean-Paul Sartre:** The radical freedom of existentialism is accompanied by an equally radical responsibility. Since we are free to define ourselves, we are responsible for what we are and what we do, without excuses or external determinisms.

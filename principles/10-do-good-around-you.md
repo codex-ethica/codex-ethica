@@ -4,10 +4,10 @@ title: "Principle 10: Do good around you, here and now"
 permalink: /principles/do-good-around-you/
 ---
 
-## 10. Do good around you, here and now.
+# 10. Do good around you, here and now.
 *For this is where it all begins—and where every conscious act can improve the world.*
 
-### Foundations and Inspirations:
+## Foundations and Inspirations:
 
 *   **Aristotle:** Eudaimonia (happiness, human flourishing) in Aristotle is not a passive state but an activity in accordance with virtue. Acting well, exercising virtues in the city and in one's personal life, is the key to a fulfilled life. Concrete and virtuous action is central. (Cf. *Nicomachean Ethics*).
 *   **Confucius:** The notion of *Ren* (仁 - benevolence, humanity, goodness) is a cardinal virtue of Confucianism. It manifests in daily relationships and concrete actions towards others. The improvement of society begins with self-improvement and just action in one's immediate environment. (Cf. *The Analects*).

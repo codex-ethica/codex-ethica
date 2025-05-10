@@ -4,10 +4,10 @@ title: "Principle 7: Confront injustice, work for an equitable world"
 permalink: /principles/confront-injustice/
 ---
 
-## 7. Confront injustice, work for an equitable world.
+# 7. Confront injustice, work for an equitable world.
 *Never resign yourself. Justice is won through the commitment of all.*
 
-### Foundations and Inspirations:
+## Foundations and Inspirations:
 
 *   **John Rawls:** His *A Theory of Justice* proposes principles for a just society (equal liberty for all, and the difference principle according to which social and economic inequalities are justified only if they benefit the least advantaged). The idea of the "veil of ignorance" encourages thinking about justice from an impartial point of view. (Cf. *A Theory of Justice*).
 *   **Martha Nussbaum & Amartya Sen:** The "capabilities" approach (cf. Principle 1) provides a basis for identifying injustices in terms of deprivations of real freedoms and opportunities to lead a fulfilling life. It calls for political and social action to guarantee everyone a minimum threshold of capabilities.

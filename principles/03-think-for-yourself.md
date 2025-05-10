@@ -4,10 +4,10 @@ title: "Principle 3: Think for yourself, challenge dogmas"
 permalink: /principles/think-for-yourself/
 ---
 
-## 3. Think for yourself, challenge dogmas.
+# 3. Think for yourself, challenge dogmas.
 *Doubt, question, verify. Truth has nothing to fear from doubt.*
 
-### Foundations and Inspirations:
+## Foundations and Inspirations:
 
 *   **The Enlightenment:** The entire Enlightenment movement is an exhortation to the autonomy of thought.
     *   **Immanuel Kant:** His motto for the Enlightenment was "Sapere aude!" (Dare to know! Have courage to use your own understanding!). It is the call to emerge from self-imposed immaturity.
