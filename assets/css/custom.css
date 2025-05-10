@@ -5,7 +5,7 @@ body {
     font-family: 'Lora', serif;
     font-size: 1rem; /* Base font size, typically 16px */
     line-height: 1.75; /* Generous line height for Lora's readability in long texts */
-    font-weight: 400; /* Standard weight for Lora */
+    font-weight: 500; /* Changed from 400 to 500 */
     color: #212529; /* Bootstrap's default body color for good contrast */
     -webkit-font-smoothing: antialiased; /* Improve font rendering on WebKit */
     -moz-osx-font-smoothing: grayscale; /* Improve font rendering on Firefox */
@@ -78,19 +78,42 @@ a:focus {
     font-weight: 700;
     font-size: 1.6rem; /* Make brand slightly larger and distinct */
     letter-spacing: -0.01em;
+    /* color: #fff; Implicitly handled by .navbar-dark */
 }
 
 /* Using Lora for nav links for consistency with body, could be a clean sans-serif too */
 .navbar-nav .nav-link {
     font-family: 'Lora', serif;
     font-size: 0.95rem; /* Slightly smaller for UI elements */
-    font-weight: 400; /* Regular Lora for nav links */
+    /* font-weight: 400; Will be 500 if body is 500, or can be set specifically */
+}
+
+/* Ensuring navbar link colors are explicitly white/off-white on dark background */
+.navbar-dark .navbar-nav .nav-link,
+.navbar-dark .navbar-nav .nav-link:link,
+.navbar-dark .navbar-nav .nav-link:visited {
+    color: rgba(255, 255, 255, 0.8); /* Increased opacity slightly */
+    font-weight: 500; /* Match body weight for consistency or set to 400 for lighter nav links */
+}
+
+.navbar-dark .navbar-nav .nav-link:hover,
+.navbar-dark .navbar-nav .nav-link:focus {
+    color: #ffffff;
 }
 
 .navbar-dark .navbar-nav .nav-link.active {
+    color: #ffffff;
     font-weight: 700; /* Bold for active Lora nav link */
 }
 
+/* Ensure navbar brand is white on dark background */
+.navbar-dark .navbar-brand,
+.navbar-dark .navbar-brand:link,
+.navbar-dark .navbar-brand:visited,
+.navbar-dark .navbar-brand:hover,
+.navbar-dark .navbar-brand:focus {
+    color: #ffffff;
+}
 
 /* 5. Main Content Area Enhancement */
 main.container-lg {

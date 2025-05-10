@@ -26,14 +26,14 @@ Whether you're a translator, writer, designer, philosopher, teacher, or curious 
 
 ---
 
-## How to contribute
+## 🌐 How to contribute
 
-1. **Fork** the repository
+1. **Fork** the [repository](https://github.com/codex-ethica/codex-ethica)
 2. Create a branch with a clear name (e.g. `fr-translation-update`, `fix-typos`, `add-reference-jonas`)
 3. Make your changes
 4. Open a **pull request** with a short explanation
 
-✳️ If you're not familiar with GitHub, feel free to open an [issue](https://github.com/your-repo/issues) with your suggestion or send a message by email (if available).
+✳️ If you're not familiar with GitHub, feel free to open an [issue](https://github.com/codex-ethica/codex-ethica/issues) with your suggestion or send a message by email (if available).
 
 ---
 
