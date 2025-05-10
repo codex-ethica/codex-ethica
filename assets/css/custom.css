@@ -5,7 +5,7 @@ body {
     font-family: 'Lora', serif;
     font-size: 1rem; /* Base font size, typically 16px */
     line-height: 1.75; /* Generous line height for Lora's readability in long texts */
-    font-weight: 500; /* Changed from 400 to 500 */
+    font-weight: 500; /* Standard weight for Lora */
     color: #212529; /* Bootstrap's default body color for good contrast */
     -webkit-font-smoothing: antialiased; /* Improve font rendering on WebKit */
     -moz-osx-font-smoothing: grayscale; /* Improve font rendering on Firefox */
@@ -116,9 +116,14 @@ a:focus {
 }
 
 /* 5. Main Content Area Enhancement */
-main.container-lg {
-    padding-top: 2rem; /* Add some space between navbar and content */
-    padding-bottom: 2rem; /* Add some space before footer */
+main {
+    max-width: 65ch; /* Optimal width for readability, around 60-75 characters */
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1rem;  /* Horizontal padding for smaller screens */
+    padding-right: 1rem; /* Horizontal padding for smaller screens */
+    padding-top: 2rem;   /* Keep existing vertical padding */
+    padding-bottom: 2rem;/* Keep existing vertical padding */
 }
 
 /* 6. Horizontal Rule */
@@ -148,6 +153,44 @@ hr {
     .navbar-brand {
         font-size: 1.4rem;
     }
+}
+
+/* 8. Enhanced Blockquotes */
+blockquote {
+    font-size: 1.05rem; /* Légèrement plus grand ou pareil que le corps */
+    /* font-style: italic; */ /* Optionnel, NYT ne le fait pas toujours */
+    color: #495057; /* Couleur un peu atténuée */
+    border-left: 4px solid #dee2e6; /* Bordure gauche plus subtile que le défaut Bootstrap */
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    padding-left: 1.5rem;
+    margin-top: 2rem; /* Plus d'espace avant */
+    margin-bottom: 2rem; /* Plus d'espace après */
+    margin-left: 0; /* Annuler le margin par défaut pour contrôler avec padding */
+    margin-right: 0;
+}
+
+blockquote p {
+    margin-bottom: 0.75rem; /* Espacement entre paragraphes dans une citation */
+    line-height: 1.7; /* Hauteur de ligne pour la citation, peut être un peu différente du corps */
+}
+
+blockquote p:last-child {
+    margin-bottom: 0; /* Pas de marge pour le dernier paragraphe de la citation */
+}
+
+blockquote footer,
+blockquote cite {
+    display: block;
+    font-size: 0.9rem;
+    line-height: 1.5;
+    color: #6c757d; /* Gris standard pour l'attribution */
+    margin-top: 1rem;
+}
+
+/* 9. Emphasis */
+strong, b {
+    font-weight: 700; /* Assure l'utilisation de Lora Bold (si Lora 700 est importée) */
 }
 
 /* Further refinements welcome! */ 
