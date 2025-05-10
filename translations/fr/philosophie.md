@@ -89,7 +89,7 @@ Des mécanismes comme les Commissions Vérité et Réconciliation (CVR) centrent
 Ces processus, souvent douloureux, peuvent permettre un apaisement, une reconnaissance des souffrances et jeter les bases de la reconstruction. Une limite parfois soulevée est la perception d'impunité pour certains crimes.
 
 **Lien avec le Codex Ethica** :
-Démontre comment la quête de [justice (P7)](principes.md#7-affronte-linjustice-oeuvre-pour-un-monde-equitable) peut s'allier au respect de la [dignité de tous (P1)](principes.md#1-respecte-la-dignite-de-chacun), y compris des auteurs assumant leur [responsabilité (P8)](principes.md#8-sois-responsable--tes-actes-tappartiennent). Le [dialogue (P4)](principes.md#4-dialogue-pour-comprendre-unis-toi-pour-construire) est crucial pour prévenir de [nouveaux torts (P2)](principes.md#2-ne-cause-aucun-tort) et reconstruire une communauté viable (une forme de [P10](principes.md#10-fais-le-bien-autour-de-toi-ici-et-maintenant) à l'échelle sociétale).
+Démontre comment la quête de [justice (P7)](principes.md#7-affronte-linjustice-oeuvre-pour-un-monde-équitable) peut s'allier au respect de la [dignité de tous (P1)](principes.md#1-respecte-la-dignité-de-chacun), y compris des auteurs assumant leur [responsabilité (P8)](principes.md#8-sois-responsable--tes-actes-tappartiennent). Le [dialogue (P4)](principes.md#4-dialogue-pour-comprendre-unis-toi-pour-construire) est crucial pour prévenir de [nouveaux torts (P2)](principes.md#2-ne-cause-aucun-tort) et reconstruire une communauté viable (une forme de [P10](principes.md#10-fais-le-bien-autour-de-toi-ici-et-maintenant) à l'échelle sociétale).
 
 ### 2. Conventions citoyennes pour des décisions éclairées (Ex: Enjeux climatiques, bioéthiques)
 
@@ -103,7 +103,7 @@ Des citoyens tirés au sort sont informés de manière contradictoire, délibèr
 Production de recommandations souvent ambitieuses, meilleure acceptabilité sociale potentielle de mesures difficiles, revitalisation démocratique. Le défi reste la traduction politique effective de ces propositions.
 
 **Lien avec le Codex Ethica** :
-Incarnation de l'éthique de la discussion. Les citoyens exercent leur [jugement critique (P3)](principes.md#3-pense-par-toi-meme-defie-les-dogmes) après information, [dialoguent (P4)](principes.md#4-dialogue-pour-comprendre-unis-toi-pour-construire) avec [humilité (P5)](principes.md#5-sois-honnete-et-humble-dans-ta-quete-de-verite) pour des décisions [responsables (P8)](principes.md#8-sois-responsable--tes-actes-tappartiennent) et pour le [soin du monde (P9)](principes.md#9-prends-soin-du-monde-protege-le-vivant-et-lavenir), illustrant une démarche collective vers le [P10](principes.md#10-fais-le-bien-autour-de-toi-ici-et-maintenant).
+Incarnation de l'éthique de la discussion. Les citoyens exercent leur [jugement critique (P3)](principes.md#3-pense-par-toi-même-défie-les-dogmes) après information, [dialoguent (P4)](principes.md#4-dialogue-pour-comprendre-unis-toi-pour-construire) avec [humilité (P5)](principes.md#5-sois-honnête-et-humble-dans-ta-quête-de-vérité) pour des décisions [responsables (P8)](principes.md#8-sois-responsable--tes-actes-tappartiennent) et pour le [soin du monde (P9)](principes.md#9-prends-soin-du-monde-protège-le-vivant-et-lavenir), illustrant une démarche collective vers le [P10](principes.md#10-fais-le-bien-autour-de-toi-ici-et-maintenant).
 
 ### 3. La défense de l'intérêt public par les lanceurs d'alerte
 
@@ -117,7 +117,7 @@ Le lanceur d'alerte choisit de parler, malgré les risques (représailles profes
 Révélation de scandales, amélioration des pratiques, renforcement de la transparence ; mais souvent, conséquences personnelles lourdes pour l'individu.
 
 **Lien avec le Codex Ethica** :
-Illustre le courage moral (application directe du [P10 : faire le bien](principes.md#10-fais-le-bien-autour-de-toi-ici-et-maintenant) malgré les risques) fondé sur la [responsabilité (P8)](principes.md#8-sois-responsable--tes-actes-tappartiennent), le refus de la [non-nuisance (P2)](principes.md#2-ne-cause-aucun-tort) et de l'[injustice (P7)](principes.md#7-affronte-linjustice-oeuvre-pour-un-monde-equitable). Met en lumière l'importance de [penser par soi-même (P3)](principes.md#3-pense-par-toi-meme-defie-les-dogmes) et d'agir avec [honnêteté (P5)](principes.md#5-sois-honnete-et-humble-dans-ta-quete-de-verite) pour protéger la [dignité (P1)](principes.md#1-respecte-la-dignite-de-chacun) et le bien commun.
+Illustre le courage moral (application directe du [P10 : faire le bien](principes.md#10-fais-le-bien-autour-de-toi-ici-et-maintenant) malgré les risques) fondé sur la [responsabilité (P8)](principes.md#8-sois-responsable--tes-actes-tappartiennent), le refus de la [non-nuisance (P2)](principes.md#2-ne-cause-aucun-tort) et de l'[injustice (P7)](principes.md#7-affronte-linjustice-oeuvre-pour-un-monde-équitable). Met en lumière l'importance de [penser par soi-même (P3)](principes.md#3-pense-par-toi-même-défie-les-dogmes) et d'agir avec [honnêteté (P5)](principes.md#5-sois-honnête-et-humble-dans-ta-quête-de-vérité) pour protéger la [dignité (P1)](principes.md#1-respecte-la-dignité-de-chacun) et le bien commun.
 
 ### 4. Débats bioéthiques sur l'autonomie en fin de vie (Ex: Aide médicale à mourir)
 
@@ -131,7 +131,7 @@ Lois et pratiques variables, reflétant des convictions morales profondes. Proce
 Évolution des cadres légaux dans de nombreux pays, mais persistance de débats intenses. Difficulté à trouver un consensus universel, soulignant la nécessité de tolérance.
 
 **Lien avec le Codex Ethica** :
-Cas emblématique des limites de la recherche de consensus (voir section 9). Montre comment différents principes du Codex ([P1](principes.md#1-respecte-la-dignite-de-chacun), [P2](principes.md#2-ne-cause-aucun-tort), [P6](principes.md#6-sois-libre-et-defends-la-liberte-de-tous), [P8](principes.md#8-sois-responsable--tes-actes-tappartiennent)) peuvent entrer en tension. Souligne l'importance d'une méthodologie de gestion des désaccords ([P4](principes.md#4-dialogue-pour-comprendre-unis-toi-pour-construire), section 10) qui, à défaut d'unanimité, vise des solutions respectueuses des droits et du pluralisme.
+Cas emblématique des limites de la recherche de consensus (voir section 9). Montre comment différents principes du Codex ([P1](principes.md#1-respecte-la-dignité-de-chacun), [P2](principes.md#2-ne-cause-aucun-tort), [P6](principes.md#6-sois-libre-et-défends-la-liberté-de-tous), [P8](principes.md#8-sois-responsable--tes-actes-tappartiennent)) peuvent entrer en tension. Souligne l'importance d'une méthodologie de gestion des désaccords ([P4](principes.md#4-dialogue-pour-comprendre-unis-toi-pour-construire), section 10) qui, à défaut d'unanimité, vise des solutions respectueuses des droits et du pluralisme.
 
 ### 5. Accès universel à une éducation émancipatrice
 
@@ -145,7 +145,7 @@ Politiques visant la gratuité et l'obligation scolaire, programmes de soutien a
 Progrès dans la scolarisation, mais persistance de fortes disparités. Nécessité d'efforts continus pour une réelle équité.
 
 **Lien avec le Codex Ethica** :
-L'éducation est cruciale pour la [pensée autonome (P3)](principes.md#3-pense-par-toi-meme-defie-les-dogmes), condition de la [liberté (P6)](principes.md#6-sois-libre-et-defends-la-liberte-de-tous) et de la [dignité (P1)](principes.md#1-respecte-la-dignite-de-chacun). Lutter contre les inégalités scolaires relève de la [justice (P7)](principes.md#7-affronte-linjustice-oeuvre-pour-un-monde-equitable) et de la [responsabilité collective (P8)](principes.md#8-sois-responsable--tes-actes-tappartiennent), visant à ce que chacun puisse contribuer au [bien commun (P10)](principes.md#10-fais-le-bien-autour-de-toi-ici-et-maintenant).
+L'éducation est cruciale pour la [pensée autonome (P3)](principes.md#3-pense-par-toi-même-défie-les-dogmes), condition de la [liberté (P6)](principes.md#6-sois-libre-et-défends-la-liberté-de-tous) et de la [dignité (P1)](principes.md#1-respecte-la-dignité-de-chacun). Lutter contre les inégalités scolaires relève de la [justice (P7)](principes.md#7-affronte-linjustice-oeuvre-pour-un-monde-équitable) et de la [responsabilité collective (P8)](principes.md#8-sois-responsable--tes-actes-tappartiennent), visant à ce que chacun puisse contribuer au [bien commun (P10)](principes.md#10-fais-le-bien-autour-de-toi-ici-et-maintenant).
 
 ### 6. Développement et régulation éthique de l'intelligence artificielle (IA)
 
@@ -159,7 +159,7 @@ Démarches pour créer des chartes éthiques, régulations, audits, afin que l'I
 Prise de conscience croissante, premières législations. La rapidité de l'évolution technologique rend la régulation complexe et appelle à une vigilance constante.
 
 **Lien avec le Codex Ethica** :
-Souligne la nécessité d'anticiper les effets de l'IA ([P8](principes.md#8-sois-responsable--tes-actes-tappartiennent), [P9](principes.md#9-prends-soin-du-monde-protege-le-vivant-et-lavenir)) pour éviter les [nuisances (P2)](principes.md#2-ne-cause-aucun-tort), protéger la [dignité (P1)](principes.md#1-respecte-la-dignite-de-chacun) et la [justice (P7)](principes.md#7-affronte-linjustice-oeuvre-pour-un-monde-equitable). La [transparence (P5)](principes.md#5-sois-honnete-et-humble-dans-ta-quete-de-verite) et la [compréhension critique (P3)](principes.md#3-pense-par-toi-meme-defie-les-dogmes) sont vitales pour une IA au [service de l'humain (P10)](principes.md#10-fais-le-bien-autour-de-toi-ici-et-maintenant).
+Souligne la nécessité d'anticiper les effets de l'IA ([P8](principes.md#8-sois-responsable--tes-actes-tappartiennent), [P9](principes.md#9-prends-soin-du-monde-protège-le-vivant-et-lavenir)) pour éviter les [nuisances (P2)](principes.md#2-ne-cause-aucun-tort), protéger la [dignité (P1)](principes.md#1-respecte-la-dignité-de-chacun) et la [justice (P7)](principes.md#7-affronte-linjustice-oeuvre-pour-un-monde-équitable). La [transparence (P5)](principes.md#5-sois-honnête-et-humble-dans-ta-quête-de-vérité) et la [compréhension critique (P3)](principes.md#3-pense-par-toi-même-défie-les-dogmes) sont vitales pour une IA au [service de l'humain (P10)](principes.md#10-fais-le-bien-autour-de-toi-ici-et-maintenant).
 
 ## 7. Applications concrètes
 
