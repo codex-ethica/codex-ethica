@@ -1,16 +1,18 @@
-# 📜 Ten Principles for a Morality Without Gods
+---
+layout: default
+title: The Principles of Codex Ethica
+permalink: /principles/ # URL of this main principles page
+---
 
-*A morality without dogma. A humanism without illusion.*
+# The Principles of Codex Ethica
+
+This page outlines the core ethical principles that form the foundation of Codex Ethica. Each principle is further explored with its philosophical underpinnings on its dedicated page.
+
+Our principles are living guidelines, intended to foster reflection and guide action in the development and use of technology.
 
 ---
 
-**These principles, proposed in our [Manifesto for a Morality Without Gods](manifesto.md), are guides for thinking and acting freely. It is up to each individual to bring them to life, consciously.**
-
-For a more detailed exploration of the philosophical inspirations behind these principles, please see the document [Philosophical Foundations of the Ten Principles](principles_foundations.md).
-
----
-
-## 1. Respect the dignity of every person.
+## 1. [Respect the dignity of every person.](/principles/respect-dignity/)
 *In every person, an equal and absolute worth.*
 
 ## 2. Do no harm.
@@ -43,3 +45,7 @@ For a more detailed exploration of the philosophical inspirations behind these p
 ---
 
 To consult the list of works and authors that have nurtured this reflection, see our [Bibliographical References](references.md).
+
+<p class="text-center mt-4">
+  <small>The full philosophical foundations for these principles can be further explored on their respective pages.</small>
+</p>
