@@ -11,8 +11,39 @@
 </head>
 <body>
     <header>
-        <!-- Navigation could be added here later if needed -->
-        <!-- The Minima theme might also inject its own header -->
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+          <div class="container-fluid">
+            <a class="navbar-brand" href="{{ '/' | relative_url }}">{{ site.title | default: "Codex Ethica" }}</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+              <ul class="navbar-nav ms-auto">
+                <li class="nav-item">
+                  <a class="nav-link {% if page.url == '/' %}active{% endif %}" aria-current="page" href="{{ '/' | relative_url }}">Home</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link {% if page.url == '/manifesto/' %}active{% endif %}" href="{{ '/manifesto/' | relative_url }}">Manifesto</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link {% if page.url == '/principles/' %}active{% endif %}" href="{{ '/principles/' | relative_url }}">Principles</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link {% if page.url == '/philosophy/' %}active{% endif %}" href="{{ '/philosophy/' | relative_url }}">Philosophy</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link {% if page.url == '/objections/' %}active{% endif %}" href="{{ '/objections/' | relative_url }}">Objections</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link {% if page.url == '/references/' %}active{% endif %}" href="{{ '/references/' | relative_url }}">References</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link {% if page.url == '/contributing/' %}active{% endif %}" href="{{ '/contributing/' | relative_url }}">Contribute</a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </nav>
     </header>
 
     <main class="container mt-5">
@@ -20,7 +51,12 @@
     </main>
 
     <footer>
-        <!-- A footer could be added here later if needed -->
+        <div class="container text-center py-3">
+          <small class="text-muted">
+            &copy; {{ "now" | date: "%Y" }} {{ site.title | default: "Codex Ethica" }}.
+            Content licensed under <a href="{{ '/LICENSE.txt' | relative_url }}">Creative Commons BY-SA 4.0</a>.
+          </small>
+        </div>
     </footer>
 
     <!-- Bootstrap JS Bundle with Popper -->
