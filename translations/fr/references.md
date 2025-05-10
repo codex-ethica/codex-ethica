@@ -1,5 +1,7 @@
 # 📚 Références – Codex Ethica
 
+Cette page recense les principales œuvres et auteurs qui ont nourri la réflexion et l'élaboration du [Codex Ethica](manifeste.md). Ces références sont mobilisées et explicitées plus en détail dans notre document sur les [Fondements Philosophiques des Dix Principes](fondements_des_principes.md) et irriguent l'ensemble de notre [démarche philosophique](philosophie.md).
+
 ## 1. Références fondamentales
 
 - **Emmanuel Kant** – Fondements de la métaphysique des mœurs (1785)

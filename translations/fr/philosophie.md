@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Codex Ethica propose une éthique universelle, rationnelle et laïque, fondée sur la dignité humaine, la liberté critique et la responsabilité partagée. Ce projet s'inscrit dans une tradition philosophique plurielle, refusant tout dogmatisme et toute transcendance imposée, pour offrir un socle commun de réflexion morale adapté aux défis du XXIe siècle.
+Codex Ethica propose une éthique universelle, rationnelle et laïque, fondée sur la dignité humaine, la liberté critique et la responsabilité partagée. Ce projet s'inscrit dans une tradition philosophique plurielle, refusant tout dogmatisme et toute transcendance imposée, pour offrir un socle commun de réflexion morale adapté aux défis du XXIe siècle. Il se décline en un [Manifeste pour une morale sans dieux](manifeste.md), [Dix Principes](principes.md) pour guider l'action, et des [Réponses aux objections](objections.md) fréquentes.
 
 ---
 
@@ -22,13 +22,13 @@ Trois grands principes structurent le Codex Ethica :
 - **Respect minimal** : Toute éthique commence par le refus de nuire et la reconnaissance de l'autre comme un sujet digne de considération. Ruwen Ogien a défendu une "morale minimale" allant dans ce sens : "Tant qu'on ne nuit pas à autrui, chacun doit être libre de vivre comme il l'entend.".
 - **Responsabilité étendue** : Nos actes ont des conséquences qui dépassent notre personne et notre temps. Agir moralement, c'est anticiper leurs effets à long terme, notamment sur les générations futures et l'environnement. Hans Jonas, avec son "Principe responsabilité", l'a formulé ainsi : "Agis de façon que les effets de ton action soient compatibles avec la permanence d'une vie authentiquement humaine sur Terre.".
 
-➡️ Voir aussi les [10 principes du Codex Ethica](principes.md).
+➡️ Ces principes sont détaillés et leurs [fondements philosophiques explorés ici](fondements_des_principes.md). Voir aussi la liste concise des [10 Principes du Codex Ethica](principes.md).
 
 ---
 
 ## 3. Traditions philosophiques convergentes
 
-Codex Ethica s'appuie sur une convergence éthique mondiale, reconnaissant que la quête d'une vie juste et bonne est un patrimoine commun de l'humanité. De nombreuses traditions, qu'elles soient explicitement religieuses ou séculières, ont contribué à l'élaboration de valeurs qui, une fois examinées à travers le prisme de la discussion rationnelle et de l'exigence d'universalisation (c'est-à-dire leur validité potentielle pour tous), peuvent enrichir une éthique laïque.
+Codex Ethica s'appuie sur une convergence éthique mondiale, reconnaissant que la quête d'une vie juste et bonne est un patrimoine commun de l'humanité. De nombreuses traditions, qu'elles soient explicitement religieuses ou séculières, ont contribué à l'élaboration de valeurs qui, une fois examinées à travers le prisme de la discussion rationnelle et de l'exigence d'universalisation (c'est-à-dire leur validité potentielle pour tous), peuvent enrichir une éthique laïque. Pour une liste plus exhaustive des auteurs et œuvres inspirants, voir nos [Références bibliographiques](references.md).
 
 | Origine | Référence et figures clés | Concept-clé / Contribution | Application concrète (Exemples) |
 |--------|-----------|---------------------------|---------------------|

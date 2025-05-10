@@ -9,7 +9,7 @@ Ces fondations humaines suffisent pour **bâtir ensemble une morale solide, just
 
 Pour éclairer nos choix, les enseignements d'un passé lointain, souvent contradictoires ou partiaux, ne suffisent plus.
 Aujourd'hui, nous avons indispensablement besoin de clarté dans le discernement, de rigueur dans les principes et de courage face à nos responsabilités.
-Et cette éthique d'aujourd'hui, **c'est à nous, collectivement, de la construire**, dans le sillage de tous ceux qui, des Lumières à nos jours, ont affirmé la primauté de la conscience humaine.
+Et cette éthique d'aujourd'hui, **c'est à nous, collectivement, de la construire** (pour une exploration de ces fondations, voir notre [démarche philosophique](philosophie.md)), dans le sillage de tous ceux qui, des Lumières à nos jours, ont affirmé la primauté de la conscience humaine.
 
 ---
 
@@ -78,7 +78,7 @@ C'est aspirer à une société **où le ciment des valeurs publiques se forge da
 
 Nous reconnaissons la pluralité des convictions et l'apport historique des traditions spirituelles. Néanmoins, une communauté véritablement inclusive requiert un socle éthique commun, ancré dans la raison, le respect mutuel et la liberté de conscience.
 
-C'est pourquoi nous convions chaque personne, qu'elle se réclame d'une foi ou d'aucune, à enrichir ce dialogue et à œuvrer ensemble à cette éthique partagée, fondation d'une société plus équitable, accueillante et résolument tournée vers l'avenir.
+C'est pourquoi nous convions chaque personne, qu'elle se réclame d'une foi ou d'aucune, à enrichir ce dialogue (voir aussi notre [réponse aux objections courantes](objections.md)) et à œuvrer ensemble à cette éthique partagée, fondation d'une société plus équitable, accueillante et résolument tournée vers l'avenir.
 
 ---
 
