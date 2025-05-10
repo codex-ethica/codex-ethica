@@ -1,3 +1,9 @@
+---
+layout: default
+title: Contributing to Codex Ethica
+permalink: /contributing/
+---
+
 # 🤝 Contributing to Codex Ethica
 
 Thank you for your interest in contributing!  

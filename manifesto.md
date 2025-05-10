@@ -15,7 +15,7 @@ These human foundations are sufficient to **collectively build a solid, just, an
 
 To enlighten our choices, the teachings of a distant past, often contradictory or biased, are no longer sufficient.
 Today, we indispensably need clarity in discernment, rigor in principles, and courage in facing our responsibilities.
-And this ethics of today, **it is up to us, collectively, to construct it** (for an exploration of these foundations, see our [philosophical approach](philosophy.md)), in the wake of all those who, from the Enlightenment to the present day, have affirmed the primacy of human conscience.
+And this ethics of today, **it is up to us, collectively, to construct it** (for an exploration of these foundations, see our [philosophical approach](/philosophy/)), in the wake of all those who, from the Enlightenment to the present day, have affirmed the primacy of human conscience.
 
 ---
 
@@ -70,7 +70,7 @@ Thus, the rise and sharing of a secular morality, founded on argumentation and m
 
 As a shared, adaptable, and easily transmissible foundation, we propose these ten principles:
 
-➡️ [Discover the 10 Principles for an Everyday Ethics](principles.md)
+➡️ [Discover the 10 Principles for an Everyday Ethics](/principles/)
 
 These guidelines do not claim any particular belief and do not aim to impose themselves on anyone.
 Everyone can appropriate them, nourish them with their reflection, disseminate them, and adjust them to their own measure.
@@ -85,7 +85,7 @@ It is to aspire to a society **where the cement of public values is forged in th
 
 We recognize the plurality of convictions and the historical contribution of spiritual traditions. Nevertheless, a truly inclusive community requires a common ethical foundation, anchored in reason, mutual respect, and freedom of conscience.
 
-This is why we invite every person, whether they claim a faith or none, to enrich this dialogue (see also our [response to common objections](objections.md)) and to work together on this shared ethics, the foundation of a more equitable, welcoming, and resolutely future-oriented society.
+This is why we invite every person, whether they claim a faith or none, to enrich this dialogue (see also our [response to common objections](/objections/)) and to work together on this shared ethics, the foundation of a more equitable, welcoming, and resolutely future-oriented society.
 
 ---
 

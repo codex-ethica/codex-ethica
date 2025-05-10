@@ -44,7 +44,7 @@ Our principles are living guidelines, intended to foster reflection and guide ac
 
 ---
 
-To consult the list of works and authors that have nurtured this reflection, see our [Bibliographical References](references.md).
+To consult the list of works and authors that have nurtured this reflection, see our [Bibliographical References](/references/).
 
 <p class="text-center mt-4">
   <small>The full philosophical foundations for these principles can be further explored on their respective pages.</small>

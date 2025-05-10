@@ -1,3 +1,9 @@
+---
+layout: default
+title: Philosophical Foundations - Codex Ethica
+permalink: /philosophy/
+---
+
 # Philosophical Foundations – Codex Ethica
 
 ## Introduction
@@ -22,7 +28,7 @@ Three main principles structure Codex Ethica:
 
 These principles are not mere abstract ideals but call to be cultivated and embodied in individual and collective *practices*, which implies constant attention to the social conditions that facilitate or hinder their implementation.
 
-➡️ These principles are detailed and their [philosophical foundations explored here](principles_foundations.md). See also the concise list of the [10 Principles of Codex Ethica](principles.md).
+➡️ These principles are detailed and their philosophical foundations explored on their respective pages, accessible via the [main Principles page](/principles/). See also the concise list of the [10 Principles of Codex Ethica](/principles/).
 
 ## 3. Converging Philosophical Traditions
 

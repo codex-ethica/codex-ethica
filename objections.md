@@ -1,3 +1,9 @@
+---
+layout: default
+title: Responses to Objections - Codex Ethica
+permalink: /objections/
+---
+
 # Responding to Objections – Codex Ethica
 
 This project, presented in our [Manifesto for a Morality Without Gods](manifesto.md), naturally raises questions and criticisms.
@@ -57,7 +63,7 @@ This project proposes a **basis for personal ethics and a guide for collective a
 
 ## 8. Isn't imposing 10 principles already dogmatic?
 
-These [10 principles](principles.md) (whose [foundations are explained here](principles_foundations.md)) are not imposed on anyone authoritatively.
+These [10 principles](/principles/) (whose foundations are explained on their respective pages) are not imposed on anyone authoritatively.
 They are a **proposal, an open basis for discussion**, designed to be accessible and useful.
 They are **open to criticism, adaptation, and enrichment**. Their formulation can be improved, their number adjusted.
 This is precisely the opposite of a dogma, which by definition is a revealed truth or imposed as intangible. Here, the approach is one of continuous co-construction, in line with our [methodology for managing disagreements](philosophy.md#10-methodology-for-managing-disagreements).
@@ -114,7 +120,7 @@ Our [methodology for managing disagreements](philosophy.md#10-methodology-for-ma
 ## 16. Isn't secular morality elitist or inaccessible?
 
 The proposed ethics, although based on philosophical reflections, aims to be **accessible to all**, regardless of educational level or cultural background.
-The fundamental principles are formulated as clearly as possible, and the [10 principles for a just life](principles.md), accompanied by their [explained foundations](principles_foundations.md), are designed to be easily understandable and applicable.
+The [10 principles for a just life](/principles/), accompanied by their explained foundations on their respective pages, are designed to be easily understandable and applicable.
 Ethics education, popularization of concepts, dialogue, and the provision of teaching tools are essential for everyone to appropriate these reflections.
 Concrete examples, case studies, and open discussion spaces are encouraged to make this morality living, embodied, and shared, and not knowledge reserved for an elite.
 

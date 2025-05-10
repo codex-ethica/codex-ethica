@@ -1,6 +1,12 @@
+---
+layout: default
+title: References - Codex Ethica
+permalink: /references/
+---
+
 # 📚 References – Codex Ethica
 
-This page lists the main works and authors that have nourished the reflection and development of [Codex Ethica](manifesto.md). These references are mobilized and explained in more detail in our document on the [Philosophical Foundations of the Ten Principles](principles_foundations.md) and inform our entire [philosophical approach](philosophy.md).
+This page lists the main works and authors that have nourished the reflection and development of [Codex Ethica](/manifesto/). These references are mobilized and explained in more detail in our document on the [Philosophical Foundations](/philosophy/) (which includes links to the individual principles' foundations) and inform our entire [philosophical approach](/philosophy/).
 
 ---
 
