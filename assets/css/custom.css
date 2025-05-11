@@ -1,4 +1,5 @@
 /* assets/css/custom.css */
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&family=Playfair+Display:wght@500;600;700&display=swap');
 
 /* 1. Body and Base Typography (Lora) */
 body {
@@ -158,8 +159,8 @@ hr {
 
 /* 8. Enhanced Blockquotes */
 blockquote {
-    font-size: 1.05rem; /* Légèrement plus grand ou pareil que le corps */
-    /* font-style: italic; */ /* Optionnel, NYT ne le fait pas toujours */
+    font-size: 1.05rem; /* Slightly larger or same as body */
+    /* font-style: italic; */ /* Optional, NYT doesn't always do this */
     color: #495057; /* Couleur un peu atténuée */
     border-left: 4px solid #dee2e6; /* Bordure gauche plus subtile que le défaut Bootstrap */
     padding-top: 0.5rem;
