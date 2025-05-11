@@ -7,7 +7,7 @@ lang: fr
 
 # Fondements Philosophiques des Dix Principes
 
-Ce document explore les racines philosophiques et les inspirations intellectuelles de chacun des [Dix Principes de Codex Ethica](principles.md), tels que présentés dans notre [Manifeste](manifesto.md). Il met en évidence les liens avec les auteurs et ouvrages cités dans nos [références bibliographiques](references.md). L'objectif est de montrer que ces principes, bien que formulés pour être accessibles et universels, s'appuient sur une riche tradition de pensée humaniste, rationnelle et critique.
+Ce document explore les racines philosophiques et les inspirations intellectuelles de chacun des [Dix Principes de Codex Ethica]({{ '/fr/principles/' | relative_url }}), tels que présentés dans notre [Manifeste]({{ '/fr/manifesto/' | relative_url }}). Il met en évidence les liens avec les auteurs et ouvrages cités dans nos [références bibliographiques]({{ '/fr/references/' | relative_url }}). L'objectif est de montrer que ces principes, bien que formulés pour être accessibles et universels, s'appuient sur une riche tradition de pensée humaniste, rationnelle et critique.
 
 ---
 
@@ -28,7 +28,7 @@ Ce document explore les racines philosophiques et les inspirations intellectuell
 *   **John Stuart Mill :** Son « principe de non-nuisance » est une pierre angulaire du libéralisme politique et moral : le seul motif légitime pour lequel le pouvoir peut être exercé sur un membre d'une communauté civilisée, contre sa volonté, est d'empêcher qu'un tort ne soit causé à autrui. (Cf. *De la liberté*).
 *   **Ruwen Ogien :** Promoteur d'une « morale minimale » centrée sur le devoir de ne pas nuire injustement à autrui, et sur la considération égale des intérêts de chacun. Il critiquait le paternalisme moral et prônait une éthique laïque axée sur la prévention des torts. (Cf. *L'éthique aujourd'hui*).
 *   **Mahatma Gandhi :** Le principe de non-violence (Ahimsa) est central dans sa philosophie et son action. Il implique non seulement l'absence de violence physique, mais aussi de violence en parole ou en pensée. La devise fait écho à cette idée que l'absence de violence est une condition première de la justice. (Cf. *Tous les hommes sont frères*).
-*   **Éthique médicale (Primum non nocere) :** Bien que non explicitement listé dans [references.md](references.md), le principe « D'abord, ne pas nuire » est un fondement de l'éthique médicale qui a une portée universelle et renforce cette idée.
+*   **Éthique médicale (Primum non nocere) :** Bien que non explicitement listé dans [references.md]({{ '/fr/references/' | relative_url }}), le principe « D'abord, ne pas nuire » est un fondement de l'éthique médicale qui a une portée universelle et renforce cette idée.
 
 ## 3. Pense par toi-même, défie les dogmes.
 *Doute, questionne, vérifie. La vérité n'a rien à craindre du doute.*

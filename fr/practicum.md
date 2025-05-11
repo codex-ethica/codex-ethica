@@ -94,7 +94,7 @@ Cette section déclinera pour chaque cercle les éléments suivants :
 
 ### 3.2. Fondements théoriques de l'approche par cercles
 
-L'application du Codex Ethica à travers différents cercles sociaux s'appuie sur plusieurs cadres théoriques et concepts clés qui aident à comprendre l'interaction entre l'individu et des systèmes sociaux plus larges. Plutôt que de répéter une bibliographie exhaustive, cette section met en lumière les inspirations principales spécifiques à cette approche. Pour une liste complète des œuvres et auteurs qui nourrissent le Codex Ethica, veuillez consulter notre page de [Références bibliographiques](/fr/references/).
+L'application du Codex Ethica à travers différents cercles sociaux s'appuie sur plusieurs cadres théoriques et concepts clés qui aident à comprendre l'interaction entre l'individu et des systèmes sociaux plus larges. Plutôt que de répéter une bibliographie exhaustive, cette section met en lumière les inspirations principales spécifiques à cette approche. Pour une liste complète des œuvres et auteurs qui nourrissent le Codex Ethica, veuillez consulter notre page de [Références bibliographiques]({{ '/fr/references/' | relative_url }}).
 
 Quelques influences majeures pour la structuration par cercles incluent :
 
@@ -105,4 +105,4 @@ Quelques influences majeures pour la structuration par cercles incluent :
 *   **Le principe de subsidiarité :** Particulièrement pertinent pour les cercles "Organisation" et "Collectivité publique", ce principe (notamment issu de la doctrine sociale européenne) suggère que les décisions devraient être prises au niveau le plus proche possible de ceux qu'elles affectent, tout en assurant une coordination aux niveaux supérieurs lorsque nécessaire. Il aide à penser l'articulation des responsabilités entre les différents cercles.
 *   **Les cadres normatifs multi-niveaux :** Des instruments comme la Déclaration Universelle sur la Bioéthique et les Droits de l'Homme (UNESCO) illustrent comment des principes éthiques peuvent être déclinés et appliqués à différents niveaux, du local au global.
 
-Ces références et concepts, parmi d'autres explorés dans nos [Références bibliographiques](/fr/references/), fournissent une base solide pour l'analyse contextuelle proposée dans ce document. 
+Ces références et concepts, parmi d'autres explorés dans nos [Références bibliographiques]({{ '/fr/references/' | relative_url }}), fournissent une base solide pour l'analyse contextuelle proposée dans ce document. 

@@ -16,7 +16,7 @@ Ces fondations humaines suffisent pour **bâtir ensemble une morale solide, just
 
 Pour éclairer nos choix, les enseignements d'un passé lointain, souvent contradictoires ou partiaux, ne suffisent plus.
 Aujourd'hui, nous avons indispensablement besoin de clarté dans le discernement, de rigueur dans les principes et de courage face à nos responsabilités.
-Et cette éthique d'aujourd'hui, **c'est à nous, collectivement, de la construire** (pour une exploration de ces fondations, voir notre [démarche philosophique](philosophy.md)), dans le sillage de tous ceux qui, des Lumières à nos jours, ont affirmé la primauté de la conscience humaine.
+Et cette éthique d'aujourd'hui, **c'est à nous, collectivement, de la construire** (pour une exploration de ces fondations, voir notre [démarche philosophique]({{ '/fr/philosophy/' | relative_url }})), dans le sillage de tous ceux qui, des Lumières à nos jours, ont affirmé la primauté de la conscience humaine.
 
 ## 2. Les limites et l'apport des fondements religieux de la morale
 
@@ -62,7 +62,7 @@ Ainsi, l'essor et le partage d'une morale laïque, fondée sur l'argumentation e
 ## 5. Dix principes pour une vie juste
 
 En guise de socle partagé, adaptable et aisément transmissible, nous avançons ces dix principes :
-➡️ [Découvrir les 10 principes pour une éthique au quotidien](principles.md)
+➡️ [Découvrir les 10 principes pour une éthique au quotidien]({{ '/fr/principles/' | relative_url }})
 
 Ces orientations ne se réclament d'aucune croyance particulière et ne visent à s'imposer à quiconque.
 Chacun peut se les approprier, les nourrir de sa réflexion, les diffuser, les ajuster à sa mesure.
@@ -75,7 +75,7 @@ C'est aspirer à une société **où le ciment des valeurs publiques se forge da
 
 Nous reconnaissons la pluralité des convictions et l'apport historique des traditions spirituelles. Néanmoins, une communauté véritablement inclusive requiert un socle éthique commun, ancré dans la raison, le respect mutuel et la liberté de conscience.
 
-C'est pourquoi nous convions chaque personne, qu'elle se réclame d'une foi ou d'aucune, à enrichir ce dialogue (voir aussi notre [réponse aux objections courantes](objections.md)) et à œuvrer ensemble à cette éthique partagée, fondation d'une société plus équitable, accueillante et résolument tournée vers l'avenir.
+C'est pourquoi nous convions chaque personne, qu'elle se réclame d'une foi ou d'aucune, à enrichir ce dialogue (voir aussi notre [réponse aux objections courantes]({{ '/fr/objections/' | relative_url }})) et à œuvrer ensemble à cette éthique partagée, fondation d'une société plus équitable, accueillante et résolument tournée vers l'avenir.
 
 ## 7. Une société éthique sans dieux : une perspective réalisable
 

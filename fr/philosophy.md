@@ -9,7 +9,7 @@ lang: fr
 
 ## Introduction
 
-Codex Ethica propose une éthique universelle, rationnelle et laïque, fondée sur la dignité humaine, la liberté critique et la responsabilité partagée. Ce projet s'inscrit dans une tradition philosophique plurielle, refusant tout dogmatisme et toute transcendance imposée, pour offrir un socle commun de réflexion morale adapté aux défis du XXIe siècle, tout en restant lucide sur les obstacles structurels à sa pleine réalisation et sur l'importance de son incarnation dans des pratiques quotidiennes. Il se décline en un [Manifeste pour une morale sans dieux](manifesto.md), [Dix Principes](principles.md) pour guider l'action, et des [Réponses aux objections](objections.md) fréquentes.
+Codex Ethica propose une éthique universelle, rationnelle et laïque, fondée sur la dignité humaine, la liberté critique et la responsabilité partagée. Ce projet s'inscrit dans une tradition philosophique plurielle, refusant tout dogmatisme et toute transcendance imposée, pour offrir un socle commun de réflexion morale adapté aux défis du XXIe siècle, tout en restant lucide sur les obstacles structurels à sa pleine réalisation et sur l'importance de son incarnation dans des pratiques quotidiennes. Il se décline en un [Manifeste pour une morale sans dieux]({{ '/fr/manifesto/' | relative_url }}), [Dix Principes]({{ '/fr/principles/' | relative_url }}) pour guider l'action, et des [Réponses aux objections]({{ '/fr/objections/' | relative_url }}) fréquentes.
 
 ---
 
@@ -29,11 +29,11 @@ Trois grands principes structurent le Codex Ethica :
 
 Ces principes ne sont pas de simples idéaux abstraits, mais appellent à être cultivés et incarnés dans des *pratiques* individuelles et collectives, ce qui implique une attention constante aux conditions sociales qui facilitent ou entravent leur mise en œuvre.
 
-➡️ Ces principes sont détaillés et leurs [fondements philosophiques explorés ici](principles_foundations.md). Voir aussi la liste concise des [10 Principes du Codex Ethica](principles.md).
+➡️ Ces principes sont détaillés et leurs [fondements philosophiques explorés ici]({{ '/fr/principles_foundations/' | relative_url }}). Voir aussi la liste concise des [10 Principes du Codex Ethica]({{ '/fr/principles/' | relative_url }}).
 
 ## 3. Traditions philosophiques convergentes
 
-Codex Ethica s'appuie sur une convergence éthique mondiale, reconnaissant que la quête d'une vie juste et bonne est un patrimoine commun de l'humanité. De nombreuses traditions, qu'elles soient explicitement religieuses ou séculières, ont contribué à l'élaboration de valeurs qui, une fois examinées à travers le prisme de la discussion rationnelle et de l'exigence d'universalisation (c'est-à-dire leur validité potentielle pour tous), peuvent enrichir une éthique laïque. Pour une liste plus exhaustive des auteurs et œuvres inspirants, voir nos [Références bibliographiques](references.md).
+Codex Ethica s'appuie sur une convergence éthique mondiale, reconnaissant que la quête d'une vie juste et bonne est un patrimoine commun de l'humanité. De nombreuses traditions, qu'elles soient explicitement religieuses ou séculières, ont contribué à l'élaboration de valeurs qui, une fois examinées à travers le prisme de la discussion rationnelle et de l'exigence d'universalisation (c'est-à-dire leur validité potentielle pour tous), peuvent enrichir une éthique laïque. Pour une liste plus exhaustive des auteurs et œuvres inspirants, voir nos [Références bibliographiques]({{ '/fr/references/' | relative_url }}).
 
 | Origine | Référence et figures clés | Concept-clé / Contribution | Application concrète (Exemples) |
 |--------|-----------|---------------------------|---------------------|
@@ -195,7 +195,7 @@ Au-delà des grandes études de cas, les principes du Codex Ethica trouvent leur
 
 ## 8. Réponses aux objections
 
-Cette section vise à synthétiser et approfondir certaines objections courantes au projet Codex Ethica, en s'appuyant sur les développements précédents. Pour une exploration plus exhaustive, le document [`objections.md`](objections.md) peut être consulté. Voici quelques éléments clés :
+Cette section vise à synthétiser et approfondir certaines objections courantes au projet Codex Ethica, en s'appuyant sur les développements précédents. Pour une exploration plus exhaustive, le document [`objections.md`]({{ '/fr/objections/' | relative_url }}) peut être consulté. Voici quelques éléments clés :
 
 - **Une éthique sans fondement divin est-elle suffisamment contraignante ?** Oui. Comme nous l'avons vu (notamment en section 9), la contrainte morale ne vient pas nécessairement d'une autorité extérieure (morale hétéronome, où les règles sont reçues sans examen critique). Elle peut émerger de :
     - La **raison critique** : le souci de cohérence avec soi-même et la capacité à universaliser ses principes d'action.

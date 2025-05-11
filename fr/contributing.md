@@ -49,7 +49,7 @@ Que vous soyez traducteur, écrivain, designer, philosophe, enseignant ou penseu
 
 ## Licence
 
-Toutes les contributions sont soumises à la licence [Creative Commons BY-SA 4.0](LICENSE.txt).
+Toutes les contributions sont soumises à la licence [Creative Commons BY-SA 4.0]({{ '/fr/LICENSE.txt' | relative_url }}).
 
 ---
 

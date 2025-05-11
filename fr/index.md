@@ -5,7 +5,6 @@ permalink: /fr/
 lang: fr
 ---
 
-# Codex Ethica
 ## Un cadre moral séculier pour un monde juste
 
 *"Ni dogme. Ni dieux. Juste l'éthique."*  
@@ -93,5 +92,5 @@ Un manifeste pour ceux qui choisissent la raison, la responsabilité et la digni
 ---
 
 <p class="text-center">
-  <small>Ce projet est sous licence <a href="{{ '/LICENSE.txt' | relative_url }}">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</small>
+  <small>Ce projet est sous licence <a href="{{ '/fr/LICENSE.txt' | relative_url }}">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</small>
 </p> 
