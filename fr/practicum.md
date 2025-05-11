@@ -12,9 +12,7 @@ Fournir une application contextuelle et concrète du Codex Ethica en déclinant 
 - Montrer la plasticité contextuelle des principes sans en affaiblir l'universalité.
 - Proposer des cas d'usage réels ou simulés pour la formation, la discussion, ou l'implémentation dans des politiques ou organisations.
 
-## 1. Structuration par cercles sociaux
-
-Décliner les 10 principes du Codex selon 5 niveaux d'application :
+Le Codex Ethica se décline ici selon 5 niveaux d'application ou cercles sociaux, chacun avec une finalité éthique dominante :
 
 | Cercle                 | Finalité éthique dominante                               |
 |------------------------|----------------------------------------------------------|
@@ -24,15 +22,9 @@ Décliner les 10 principes du Codex selon 5 niveaux d'application :
 | Collectivité publique  | Justice sociale, droits, cadre normatif                  |
 | Organisation supranationale | Paix, interdépendance, préservation planétaire        |
 
-## 2. Application par cercle
+Chacun de ces cercles sera exploré ci-dessous, en illustrant l'application des principes du Codex à travers des exemples concrets, des contextes-types, des recommandations et une identification des principes clés mis en jeu.
 
-Cette section déclinera pour chaque cercle les éléments suivants :
-- Exemples concrets d'application de 2 à 3 principes.
-- Contextes-types (décision, arbitrage, conflits de valeurs).
-- Recommandations ou bonnes pratiques.
-- Principes du Codex mis en jeu.
-
-### 2.1. Cercle Individu
+## Cercle Individu
 
 - **Finalité éthique dominante :** Autonomie, cohérence morale personnelle.
 *L'individu, premier acteur moral, cherche à incarner ses valeurs dans ses actions quotidiennes, à développer son discernement éthique et à assumer pleinement la responsabilité de ses choix dans sa sphère d'influence directe – ce que Kant nommerait l'exercice de l'autonomie morale.*
@@ -124,7 +116,7 @@ Pour cultiver cette sagesse pratique au quotidien et faciliter l'application du 
 
 * **Rechercher activement des occasions de faire le bien (P10)** : Ne pas se limiter à éviter le mal mais chercher quotidiennement des opportunités, même modestes, de contribuer positivement à son environnement immédiat. (Conclusion de *Candide* de Voltaire, *Ren* confucéen).
 
-### 2.2. Cercle Petit groupe / équipe
+## Cercle Petit groupe / équipe
 
 - **Finalité éthique dominante :** Coopération, équité, pluralisme
 - **Exemples concrets d'application :**
@@ -136,7 +128,7 @@ Pour cultiver cette sagesse pratique au quotidien et faciliter l'application du 
 - **Principes du Codex mis en jeu :**
     - *(À compléter)*
 
-### 2.3. Cercle Organisation
+## Cercle Organisation
 
 - **Finalité éthique dominante :** Gouvernance responsable, éthique de décision
 - **Exemples concrets d'application :**
@@ -148,7 +140,7 @@ Pour cultiver cette sagesse pratique au quotidien et faciliter l'application du 
 - **Principes du Codex mis en jeu :**
     - *(À compléter)*
 
-### 2.4. Cercle Collectivité publique
+## Cercle Collectivité publique
 
 - **Finalité éthique dominante :** Justice sociale, droits, cadre normatif
 - **Exemples concrets d'application :**
@@ -160,7 +152,7 @@ Pour cultiver cette sagesse pratique au quotidien et faciliter l'application du 
 - **Principes du Codex mis en jeu :**
     - *(À compléter)*
 
-### 2.5. Cercle Organisation supranationale
+## Cercle Organisation supranationale
 
 - **Finalité éthique dominante :** Paix, interdépendance, préservation planétaire
 - **Exemples concrets d'application :**
@@ -172,13 +164,13 @@ Pour cultiver cette sagesse pratique au quotidien et faciliter l'application du 
 - **Principes du Codex mis en jeu :**
     - *(À compléter)*
 
-## 3. Annexes
+## Annexes
 
-### 3.1. Tableau récapitulatif transversal (principes x cercles)
+### Tableau récapitulatif transversal (principes x cercles)
 
 *(À compléter avec un tableau)*
 
-### 3.2. Fondements théoriques de l'approche par cercles
+### Fondements théoriques de l'approche par cercles
 
 L'application du Codex Ethica à travers différents cercles sociaux s'appuie sur plusieurs cadres théoriques et concepts clés qui aident à comprendre l'interaction entre l'individu et des systèmes sociaux plus larges. Plutôt que de répéter une bibliographie exhaustive, cette section met en lumière les inspirations principales spécifiques à cette approche. Pour une liste complète des œuvres et auteurs qui nourrissent le Codex Ethica, veuillez consulter notre page de [📚 Références – Codex Ethica]({{ '/fr/references/' | relative_url }}).
 
