@@ -1,0 +1,25 @@
+# Jekyll generated files
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+.jekyll-now
+.bundle/
+
+# Bundle files
+vendor/
+.vendor/
+Gemfile.lock
+
+# Cache files
+*.swp
+*~
+.DS_Store
+.Thumbs.db
+
+# Ruby environment
+.ruby-version
+.ruby-gemset
+
+# Logs
+*.log 
