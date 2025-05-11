@@ -5,10 +5,16 @@ permalink: /fr/
 lang: fr
 ---
 
+# Codex Ethica
+## Un cadre moral séculier pour un monde juste
+
+*"Ni dogme. Ni dieux. Juste l'éthique."*  
+Un manifeste pour ceux qui choisissent la raison, la responsabilité et la dignité humaine comme boussole.
+
 <div class="text-center pt-4 pb-5">
   <h1 class="display-4">Codex Ethica</h1>
   <p class="lead mb-4">Un cadre éthique public, collaboratif et open-source fondé sur la raison, le respect mutuel et la responsabilité partagée — et non sur une autorité divine.</p>
-  <p><a href="{{ '/fr/manifeste/' | relative_url }}" class="btn btn-outline-codex btn-lg">Lire notre manifeste</a></p>
+  <p><a href="{{ '/fr/manifesto/' | relative_url }}" class="btn btn-outline-codex btn-lg">Lire notre manifeste</a></p>
 </div>
 
 <div class="container">
@@ -30,7 +36,7 @@ lang: fr
   <div class="row justify-content-center">
     <div class="col-md-5 mb-4 reading-guide-item">
       <h3>Notre appel : Le Manifeste</h3>
-      <p>Pour un premier aperçu rapide et pour saisir l'essence du projet, nous recommandons de commencer par le <a href="{{ '/fr/manifeste/' | relative_url }}">Manifeste</a>. Il expose notre appel fondateur : pourquoi et comment nous envisageons de construire une morale sans dieux.</p>
+      <p>Pour un premier aperçu rapide et pour saisir l'essence du projet, nous recommandons de commencer par le <a href="{{ '/fr/manifesto/' | relative_url }}">Manifeste</a>. Il expose notre appel fondateur : pourquoi et comment nous envisageons de construire une morale sans dieux.</p>
     </div>
     <div class="col-md-5 mb-4 reading-guide-item">
       <h3>Principes fondamentaux : Les Dix Principes</h3>
@@ -81,5 +87,5 @@ lang: fr
 ---
 
 <p class="text-center">
-  <small>Ce projet est sous licence <a href="LICENSE.txt">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</small>
+  <small>Ce projet est sous licence <a href="{{ '/LICENSE.txt' | relative_url }}">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</small>
 </p> 

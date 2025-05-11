@@ -56,34 +56,34 @@ Mieux vaut un cadre exigeant mais adaptable qu'un dogme figé et inapplicable.
 
 La démarche est différente. Ici, le tri et la sélection des idées et des principes se veulent **rationnels, transparents, argumentés et soumis à la critique**. Nous nous efforçons de justifier nos choix sur la base de critères discutables (cohérence, universalisabilité, conséquences probables, etc.).  
 Ce cadre n'est pas présenté comme sacré ou définitif : il est **perfectible et évolutif**.  
-Chacun peut proposer des modifications ou des critiques fondées, et le cadre est destiné à évoluer avec le débat collectif et l'apport de nouvelles réflexions, conformément au principe de faillibilité que nous défendons ([voir philosophie.md](philosophie.md#10-m%C3%A9thodologie-de-gestion-des-d%C3%A9saccords)).
+Chacun peut proposer des modifications ou des critiques fondées, et le cadre est destiné à évoluer avec le débat collectif et l'apport de nouvelles réflexions, conformément au principe de faillibilité que nous défendons ([voir philosophy.md](philosophy.md#10-m%C3%A9thodologie-de-gestion-des-d%C3%A9saccords)).
 
 ## 7. Les lois suffisent, pourquoi une morale en plus ?
 
 Les lois sont essentielles, mais elles ne couvrent pas tout le champ de l'agir humain et ne sont pas toujours le reflet d'une morale idéale.  
 - Les lois changent, sont parfois injustes ou en retard sur les évolutions morales de la société. L'éthique sert alors de guide pour critiquer et améliorer les lois.
 - De nombreux comportements importants (honnêteté intellectuelle, bienveillance, solidarité spontanée, respect dans les relations interpersonnelles) ne relèvent pas directement de la loi mais d'une éthique personnelle et collective.
-Ce projet propose une **base pour une éthique personnelle et un guide pour l'action collective**, pas un simple code juridique. Elle vise à inspirer des conduites qui vont au-delà de la simple conformité légale, vers un "mieux agir" réfléchi ([voir philosophie.md sur la transformation sociale](philosophie.md#11-complexit%C3%A9-de-la-transformation-sociale-et-r%C3%B4le-de-l%C3%A9thique)).
+Ce projet propose une **base pour une éthique personnelle et un guide pour l'action collective**, pas un simple code juridique. Elle vise à inspirer des conduites qui vont au-delà de la simple conformité légale, vers un "mieux agir" réfléchi ([voir philosophy.md sur la transformation sociale](philosophy.md#11-complexit%C3%A9-de-la-transformation-sociale-et-r%C3%B4le-de-l%C3%A9thique)).
 
 ## 8. Imposer 10 principes, n'est-ce pas déjà dogmatique ?
 
 Ces [10 principes](principles.md) (dont les [fondements sont explicités ici](principles_foundations.md)) ne s'imposent à personne de manière autoritaire.  
 Ils sont une **proposition, une base de discussion ouverte**, conçue pour être accessible et utile.  
 Ils sont **ouverts à la critique, à l'adaptation, à l'enrichissement**. Leur formulation peut être améliorée, leur nombre ajusté.  
-C'est justement le contraire d'un dogme, qui par définition est une vérité révélée ou imposée comme intangible. Ici, la démarche est celle d'une co-construction continue, en accord avec notre [méthodologie de gestion des désaccords](philosophie.md#10-m%C3%A9thodologie-de-gestion-des-d%C3%A9saccords).
+C'est justement le contraire d'un dogme, qui par définition est une vérité révélée ou imposée comme intangible. Ici, la démarche est celle d'une co-construction continue, en accord avec notre [méthodologie de gestion des désaccords](philosophy.md#10-m%C3%A9thodologie-de-gestion-des-d%C3%A9saccords).
 
 ## 9. Et si l'humain n'est pas naturellement bon ?
 
 Ce texte ne suppose pas une bonté naturelle innée et infaillible, mais une **capacité morale fondamentale** : celle de raisonner, de ressentir de l'empathie, de comprendre les conséquences de ses actes et de faire des choix.  
 Ce n'est pas une morale naïve : c'est un **horizon pour la civilisation et un appel à la responsabilité**.  
-L'histoire montre que l'éducation, le dialogue, l'exemple, des institutions justes et des environnements sociaux favorables peuvent encourager le développement moral et les comportements pro-sociaux. Inversement, des contextes délétères peuvent favoriser le pire. C'est pourquoi nous insistons sur l'importance de cultiver les [dispositions morales et de créer des conditions favorables à l'action juste](philosophie.md#le-d%C3%A9fi-de-la-constance-morale--de-la-connaissance-du-bien-%C3%A0-laction-juste).
+L'histoire montre que l'éducation, le dialogue, l'exemple, des institutions justes et des environnements sociaux favorables peuvent encourager le développement moral et les comportements pro-sociaux. Inversement, des contextes délétères peuvent favoriser le pire. C'est pourquoi nous insistons sur l'importance de cultiver les [dispositions morales et de créer des conditions favorables à l'action juste](philosophy.md#le-d%C3%A9fi-de-la-constance-morale--de-la-connaissance-du-bien-%C3%A0-laction-juste).
 
 ## 10. Qui décide de ces principes ? Ce n'est pas démocratique
 
 Ces principes, comme l'ensemble du projet Codex Ethica, sont initialement proposés par un collectif, mais ils sont **publics, modifiables, et ouverts à la discussion la plus large**.  
 Il ne s'agit pas d'une autorité fermée qui décrète la morale, mais d'une **proposition destinée à être débattue, amendée et validée (ou rejetée) par l'intelligence collective et les processus démocratiques de délibération**.  
 Chacun peut participer à leur évolution par le débat, la critique constructive ou la proposition d'amendements.  
-La [méthodologie de gestion des désaccords](philosophie.md#10-m%C3%A9thodologie-de-gestion-des-d%C3%A9saccords) que nous proposons détaille comment de tels processus peuvent être menés de manière équitable et transparente.
+La [méthodologie de gestion des désaccords](philosophy.md#10-m%C3%A9thodologie-de-gestion-des-d%C3%A9saccords) que nous proposons détaille comment de tels processus peuvent être menés de manière équitable et transparente.
 
 ## 11. Est-ce une nouvelle spiritualité cachée ?
 
@@ -104,7 +104,7 @@ Aucune construction humaine, qu'elle soit morale, politique ou idéologique, n'e
 C'est précisément pourquoi ce projet insiste sur :
 - La **transparence** des arguments.
 - La **discussion permanente** et la confrontation des points de vue.
-- La **possibilité constante de remise en question** et de révision (le [principe de faillibilité](philosophie.md#10-m%C3%A9thodologie-de-gestion-des-d%C3%A9saccords)).
+- La **possibilité constante de remise en question** et de révision (le [principe de faillibilité](philosophy.md#10-m%C3%A9thodologie-de-gestion-des-d%C3%A9saccords)).
 - Le respect des **droits humains fondamentaux** comme garde-fou ultime.
 Les principes proposés ne sont jamais sacrés ou intouchables : ils doivent toujours pouvoir être débattus, critiqués et adaptés pour éviter toute dérive autoritaire ou dogmatique.
 
@@ -113,13 +113,13 @@ Les principes proposés ne sont jamais sacrés ou intouchables : ils doivent tou
 Il est vrai que la raison seule, comprise comme une logique purement formelle, ne suffit pas à motiver l'action morale.  
 C'est pourquoi l'éthique que nous proposons accorde une place centrale à l'**empathie** (la capacité de ressentir avec autrui), à la **solidarité**, à la **sollicitude** (le souci actif du bien-être des autres) et à l'**expérience humaine partagée**.  
 La compassion, l'écoute et le souci d'autrui sont essentiels à une morale vivante et incarnée.  
-Ce projet encourage à relier la réflexion rationnelle et la sensibilité, pour une éthique à la fois exigeante dans ses principes et profondément humaine dans ses motivations et ses applications, comme souligné dans notre [définition de la raison et nos sources de motivation morale](philosophie.md#1-pourquoi-une-base-philosophique).
+Ce projet encourage à relier la réflexion rationnelle et la sensibilité, pour une éthique à la fois exigeante dans ses principes et profondément humaine dans ses motivations et ses applications, comme souligné dans notre [définition de la raison et nos sources de motivation morale](philosophy.md#1-pourquoi-une-base-philosophique).
 
 ## 15. Comment gérer les conflits de valeurs entre individus ou groupes ?
 
 Même avec des principes partagés, des désaccords profonds peuvent subsister sur des questions complexes (bioéthique, liberté d'expression, justice sociale, environnement, etc.).  
 La solution n'est pas d'imposer une vérité unique ou de nier la diversité des perspectives, mais d'organiser le **débat démocratique éclairé**, l'écoute mutuelle, la recherche de compromis acceptables ou, à défaut, de modus vivendi respectueux.  
-Notre [méthodologie de gestion des désaccords](philosophie.md#10-m%C3%A9thodologie-de-gestion-des-d%C3%A9saccords) détaille une approche basée sur l'éthique de la discussion, la délibération collective, l'arbitrage démocratique encadré par les droits fondamentaux, et le principe de révisabilité. Il s'agit de valoriser la capacité à ajuster les normes et les pratiques en fonction des situations concrètes et de l'évolution des compréhensions.
+Notre [méthodologie de gestion des désaccords](philosophy.md#10-m%C3%A9thodologie-de-gestion-des-d%C3%A9saccords) détaille une approche basée sur l'éthique de la discussion, la délibération collective, l'arbitrage démocratique encadré par les droits fondamentaux, et le principe de révisabilité. Il s'agit de valoriser la capacité à ajuster les normes et les pratiques en fonction des situations concrètes et de l'évolution des compréhensions.
 
 ## 16. La morale laïque n'est-elle pas élitiste ou inaccessible ?
 
