@@ -95,14 +95,9 @@ Ce cas illustre qu'appliquer le Codex Ethica n'est pas chercher une réponse uni
 
 #### Autres exemples et contextes d'application pour l'individu
 
-Le Codex Ethica s'applique à une multitude de situations individuelles. Le type de dilemme éthique rencontré par Sarah (être témoin d'une faute, conflit de valeurs où des principes entrent en tension) se transpose ainsi dans de nombreux autres aspects de la vie quotidienne et professionnelle :
+Le Codex Ethica s'applique à une multitude de situations individuelles. Le type de dilemme éthique rencontré par Sarah – être témoin d'une faute et devoir arbitrer entre loyauté, principes et conséquences – se transpose ainsi dans de nombreux autres aspects de la vie. On peut penser au **milieu professionnel**, où l'on peut être confronté à une falsification de données, du harcèlement ou un manquement aux normes de sécurité. Dans la **vie civique**, ce peut être la connaissance d'une fraude fiscale ou la diffusion de fausses informations nuisibles. Au sein des **relations familiales ou amicales**, il peut s'agir de la découverte d'un mensonge préjudiciable. Enfin, l'**espace numérique** présente aussi de tels cas, comme le témoignage de cyberharcèlement ou de violation de la vie privée. Dans chacun de ces contextes, les principes de responsabilité (P8), de justice (P7), d'honnêteté (P5), de respect de la dignité (P1) et de dialogue (P4) sont similairement mobilisés pour guider la réflexion et l'action.
 
-*   **Milieu professionnel** : Témoin de falsification de données, de harcèlement entre collègues, ou de non-respect des normes de sécurité. Contexte où le "Principe responsabilité" de Hans Jonas (P8, P9) prend une dimension collective pour protéger l'intégrité de l'entreprise et la sécurité de tous.
-*   **Vie civique** : Connaissance d'une fraude fiscale, d'un abus de bien social, ou de diffusion de fausses informations nuisibles à la cohésion sociale. Situation qui engage ce que Rawls nommerait notre sens de la "justice comme équité" (P7) et notre responsabilité citoyenne (P8).
-*   **Relations familiales/amicales** : Découverte d'un mensonge ou d'une trahison ayant des conséquences sur d'autres. Dilemme qui met en tension loyauté personnelle et éthique universalisable (P1, P5).
-*   **Espace numérique** : Témoin de cyberharcèlement, de discours de haine, ou de violation de la vie privée. Nouveau territoire éthique qui étend le principe de non-nuisance de Mill (P2) et de respect de la dignité (P1) à l'ère digitale.
-
-Au-delà de ce type de dilemme, voici d'autres cas concrets illustrant l'application du Codex au niveau individuel :
+Au-delà de ce type de dilemme centré sur le témoignage d'une faute, voici d'autres cas concrets illustrant l'application du Codex au niveau individuel face à des défis éthiques différents :
 
 1.  **Face à une erreur professionnelle significative :**  
     Au lieu de masquer une erreur dans un rapport ou d'en rejeter la responsabilité sur un collègue, l'individu reconnaît promptement son erreur (P5), assume la responsabilité des conséquences (P8), propose des solutions pour minimiser l'impact négatif (P2), et transforme cette situation en opportunité d'apprentissage pour toute l'équipe (P10). Cette approche incarne l'honnêteté intellectuelle prônée par Socrate et Montaigne, ainsi que la responsabilité existentielle de Sartre.
