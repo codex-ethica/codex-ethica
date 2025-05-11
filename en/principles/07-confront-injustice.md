@@ -1,7 +1,8 @@
 ---
 layout: default
-title: "Principle 7: Confront injustice, work for an equitable world"
-permalink: /principles/confront-injustice/
+title: "Principle 7: Confront injustice, work for a fair world"
+permalink: /en/principles/confront-injustice/
+lang: en
 ---
 
 # 7. Confront injustice, work for an equitable world.

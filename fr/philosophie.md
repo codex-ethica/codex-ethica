@@ -1,3 +1,10 @@
+---
+layout: default
+title: Les fondements philosophiques de Codex Ethica
+permalink: /fr/philosophie/
+lang: fr
+---
+
 # Fondements philosophiques – Codex Ethica
 
 ## Introduction

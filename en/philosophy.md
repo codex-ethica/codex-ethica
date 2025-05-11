@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Philosophical Foundations - Codex Ethica
-permalink: /philosophy/
+title: The Philosophical Foundations of Codex Ethica
+permalink: /en/philosophy/
+lang: en
 ---
 
 # Philosophical Foundations – Codex Ethica

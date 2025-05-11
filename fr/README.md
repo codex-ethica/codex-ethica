@@ -13,19 +13,19 @@ Vous trouverez ici les versions françaises des documents clés qui structurent 
 Pour vous accompagner dans la découverte du Codex Ethica, nous vous proposons une approche progressive. Chaque document a son rôle et sa perspective, vous permettant d'explorer le projet selon votre intérêt et le temps dont vous disposez :
 
 1.  **Pour une première découverte rapide et l'esprit du projet :**
-    *   Nous vous suggérons de commencer par le **[`manifeste.md`](manifeste.md)**. Il expose notre appel fondateur : pourquoi et comment nous envisageons de bâtir une morale sans dieux. C'est le point de départ idéal pour saisir nos intentions.
+    *   Nous vous suggérons de commencer par le **[`Manifeste`](/fr/manifeste/)**. Il expose notre appel fondateur : pourquoi et comment nous envisageons de bâtir une morale sans dieux. C'est le point de départ idéal pour saisir nos intentions.
 
 2.  **Les fondations pratiques et leurs racines :**
-    *   Familiarisez-vous ensuite avec les **[`principes.md`](principes.md)**. Ces Dix Principes clés sont conçus comme une boussole concrète pour une vie éthique.
-    *   Pour comprendre l'ancrage philosophique détaillé de chacun de ces principes, consultez **[`fondements_des_principes.md`](fondements_des_principes.md)**. Ce document les relie à une riche tradition de pensée humaniste et critique.
+    *   Familiarisez-vous ensuite avec les **[`Principes`](/fr/principes/)**. Ces Dix Principes clés sont conçus comme une boussole concrète pour une vie éthique.
+    *   Pour comprendre l'ancrage philosophique détaillé de chacun de ces principes, consultez **[`Fondements des Principes`](/fr/fondements_des_principes/)**. Ce document les relie à une riche tradition de pensée humaniste et critique.
 
 3.  **Pour une exploration approfondie et la discussion :**
-    *   Le document le plus complet est notre **[`philosophie.md`](philosophie.md)**. Il déploie le cadre théorique global du Codex Ethica, explore les convergences avec diverses traditions philosophiques mondiales, analyse des études de cas, discute des dilemmes éthiques et propose une méthodologie pour aborder les désaccords. C'est une lecture plus dense mais essentielle pour une compréhension approfondie.
-    *   Si vous vous interrogez sur les objections courantes ou si vous souhaitez voir comment cette éthique dialogue avec les critiques, nos **[`objections.md`](objections.md)** offrent des réponses argumentées.
+    *   Le document le plus complet est notre **[`Philosophie`](/fr/philosophie/)**. Il déploie le cadre théorique global du Codex Ethica, explore les convergences avec diverses traditions philosophiques mondiales, analyse des études de cas, discute des dilemmes éthiques et propose une méthodologie pour aborder les désaccords. C'est une lecture plus dense mais essentielle pour une compréhension approfondie.
+    *   Si vous vous interrogez sur les objections courantes ou si vous souhaitez voir comment cette éthique dialogue avec les critiques, nos **[`Objections`](/fr/objections/)** offrent des réponses argumentées.
 
 4.  **Ressources complémentaires et participation :**
-    *   Notre **[`references.md`](references.md)** recense la bibliographie des œuvres et auteurs inspirant le projet, pour ceux qui souhaitent explorer plus avant les sources intellectuelles.
-    *   Et si l'envie vous prend de participer à l'amélioration et à la diffusion de ces textes, notre **[`CONTRIBUTING.md`](CONTRIBUTING.md)** vous expliquera comment faire.
+    *   Notre **[`Références`](/fr/references/)** recense la bibliographie des œuvres et auteurs inspirant le projet, pour ceux qui souhaitent explorer plus avant les sources intellectuelles.
+    *   Et si l'envie vous prend de participer à l'amélioration et à la diffusion de ces textes, notre **[`Guide de Contribution`](/fr/contributing/)** vous expliquera comment faire.
 
 Nous vous encourageons à naviguer ces documents selon vos questionnements. Bien qu'ils forment un tout cohérent, chaque partie peut aussi éclairer des aspects spécifiques de manière indépendante.
 
@@ -38,7 +38,7 @@ Nous vous encourageons à naviguer ces documents selon vos questionnements. Bien
 
 Votre participation est précieuse ! Voici comment vous pouvez aider :
 
--   Consultez notre [Guide de Contribution](CONTRIBUTING.md) pour les détails.
+-   Consultez notre [Guide de Contribution](/fr/contributing/) pour les détails.
 -   **Relecture & Style :** Proposez des corrections ou des améliorations pour rendre les textes plus clairs et percutants.
 -   **Contenu & Idées :** Suggérez des ajouts, des clarifications, ou de nouveaux arguments.
 -   **Traduction :** Si vous maîtrisez d'autres langues, aidez-nous à étendre la portée du Codex Ethica.
@@ -52,4 +52,4 @@ Nous sommes ouverts à vos retours et contributions :
 -   Rejoignez nos **canaux de discussion dédiés** (si disponibles – voir le README principal du projet).
 -   Contactez-nous par **e-mail** pour des échanges plus directs.
 
-Un grand merci pour votre intérêt et votre potentiel engagement pour un avenir éthique et éclairé ! 💙
+Un grand merci pour votre intérêt et votre potentiel engagement pour un avenir éthique et éclairé ! 💙 

@@ -1,7 +1,8 @@
 ---
 layout: default
-title: References - Codex Ethica
-permalink: /references/
+title: References
+permalink: /en/references/
+lang: en
 ---
 
 # References – Codex Ethica

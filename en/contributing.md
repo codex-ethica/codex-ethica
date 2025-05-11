@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Contributing to Codex Ethica
-permalink: /contributing/
+permalink: /en/contributing/
+lang: en
 ---
 
 # Contributing to Codex Ethica

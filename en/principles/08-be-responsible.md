@@ -1,7 +1,8 @@
 ---
 layout: default
-title: "Principle 8: Be responsible: your actions belong to you"
-permalink: /principles/be-responsible/
+title: "Principle 8: Be responsible - your actions belong to you"
+permalink: /en/principles/be-responsible/
+lang: en
 ---
 
 # 8. Be responsible: your actions belong to you.

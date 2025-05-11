@@ -1,7 +1,8 @@
 ---
 layout: default
-title: "Principle 9: Care for the world, protect the living and the future"
-permalink: /principles/care-for-world/
+title: "Principle 9: Care for the world, protect life and the future"
+permalink: /en/principles/care-for-world/
+lang: en
 ---
 
 # 9. Care for the world, protect the living and the future.

@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Responses to Objections - Codex Ethica
-permalink: /objections/
+title: Responses to Objections
+permalink: /en/objections/
+lang: en
 ---
 
 # Responding to Objections – Codex Ethica

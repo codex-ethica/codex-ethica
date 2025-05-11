@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "Principle 4: Dialogue to understand, unite to build"
-permalink: /principles/dialogue-to-understand/
+permalink: /en/principles/dialogue-to-understand/
+lang: en
 ---
 
 # 4. Dialogue to understand, unite to build.

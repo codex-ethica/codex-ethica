@@ -1,3 +1,10 @@
+---
+layout: default
+title: Réponses aux objections
+permalink: /fr/objections/
+lang: fr
+---
+
 # Répondre aux objections – Codex Ethica
 
 Ce projet, présenté dans notre [Manifeste pour une morale sans dieux](manifeste.md), suscite naturellement des questions et des critiques.

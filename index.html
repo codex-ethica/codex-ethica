@@ -1,0 +1,31 @@
+---
+permalink: /
+layout: null
+---
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Codex Ethica</title>
+    <script>
+        // Liste des langues disponibles
+        var languages = ['en', 'fr'];
+        
+        // Détection de la langue du navigateur
+        var userLang = navigator.language || navigator.userLanguage;
+        userLang = userLang.split('-')[0]; // Récupère juste la première partie (fr-FR -> fr)
+        
+        // Vérifier si la langue du navigateur est supportée
+        if (languages.indexOf(userLang) < 0) {
+            userLang = 'en'; // Langue par défaut si celle du navigateur n'est pas supportée
+        }
+        
+        // Redirection
+        window.location.href = '/' + userLang + '/';
+    </script>
+    <meta http-equiv="refresh" content="0;url=/en/" />
+</head>
+<body>
+    <p>Redirecting to <a href="/en/">English version</a>...</p>
+</body>
+</html> 

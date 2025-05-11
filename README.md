@@ -23,19 +23,19 @@ It draws from the works of thinkers such as **Kant, Camus, Ogien, Nussbaum, Hara
 To help you discover Codex Ethica, we suggest a progressive approach. Each document plays a role and offers a unique perspective, allowing you to explore the project according to your interests and available time:
 
 1.  **For a quick first look and to grasp the project's spirit:**
-    *   We recommend starting with the **[`manifesto.md`](manifesto.md)**. It outlines our founding call: why and how we envision building a morality without gods. It's the ideal starting point to understand our intentions.
+    *   We recommend starting with the **[`Manifesto`](/en/manifesto/)**. It outlines our founding call: why and how we envision building a morality without gods. It's the ideal starting point to understand our intentions.
 
 2.  **Practical foundations and their roots:**
-    *   Next, familiarize yourself with the **[`principles.md`](principles.md)**. These Ten Key Principles are designed as a concrete compass for an ethical life.
-    *   To understand the detailed philosophical grounding of each of these principles, consult **[`principles_foundations.md`](principles_foundations.md)**. This document explores their connection to a rich tradition of humanist and critical thought. (The French original is `translations/fr/fondements_des_principes.md`.)
+    *   Next, familiarize yourself with the **[`Principles`](/en/principles/)**. These Ten Key Principles are designed as a concrete compass for an ethical life.
+    *   To understand the detailed philosophical grounding of each of these principles, consult **[`Principles Foundations`](/en/principles_foundations/)**. This document explores their connection to a rich tradition of humanist and critical thought.
 
 3.  **For in-depth exploration and discussion:**
-    *   The most comprehensive document is our **[`philosophy.md`](philosophy.md)**. It lays out the overall theoretical framework of Codex Ethica, explores convergences with various global philosophical traditions, discusses case studies, ethical dilemmas, and proposes a methodology for addressing disagreements. It's a denser read but essential for a thorough understanding.
-    *   If you're wondering about common objections or wish to see how this ethic dialogues with critiques, our **[`objections.md`](objections.md)** offers reasoned responses.
+    *   The most comprehensive document is our **[`Philosophy`](/en/philosophy/)**. It lays out the overall theoretical framework of Codex Ethica, explores convergences with various global philosophical traditions, discusses case studies, ethical dilemmas, and proposes a methodology for addressing disagreements. It's a denser read but essential for a thorough understanding.
+    *   If you're wondering about common objections or wish to see how this ethic dialogues with critiques, our **[`Objections`](/en/objections/)** offers reasoned responses.
 
 4.  **Further resources and participation:**
-    *   Our **[`references.md`](references.md)** lists the bibliography of works and authors inspiring the project, for those who wish to further explore the intellectual sources.
-    *   And if you feel like participating in the improvement and dissemination of these texts, our **[`CONTRIBUTING.md`](CONTRIBUTING.md)** will explain how.
+    *   Our **[`References`](/en/references/)** lists the bibliography of works and authors inspiring the project, for those who wish to further explore the intellectual sources.
+    *   And if you feel like participating in the improvement and dissemination of these texts, our **[`Contributing Guide`](/en/contributing/)** will explain how.
 
 We encourage you to navigate these documents based on your questions. Although they form a coherent whole, each part can also independently illuminate specific aspects.
 
@@ -45,13 +45,14 @@ We encourage you to navigate these documents based on your questions. Although t
 
 This repository provides:
 
-- `manifesto.md` → A structured philosophical and civic argument for a godless morality  
-- `principles.md` → 10 universal principles for ethical life, without divine obligation  
-- `principles_foundations.md` → Detailed philosophical grounding of the Ten Key Principles
-- `philosophy.md` → Overall theoretical framework, convergences with other traditions, case studies, dilemmas, and methodology for managing disagreements.  
-- `objections.md` → Responses to common criticisms from religious, conservative, or relativist perspectives  
-- `references.md` → Annotated bibliography for deeper reading and legitimacy  
-- `translations/` → 🇫🇷 🇪🇸 🇩🇪 and more to come  
+- `/en/manifesto.md` → A structured philosophical and civic argument for a godless morality  
+- `/en/principles.md` → 10 universal principles for ethical life, without divine obligation  
+- `/en/principles_foundations.md` → Detailed philosophical grounding of the Ten Key Principles
+- `/en/philosophy.md` → Overall theoretical framework, convergences with other traditions, case studies, dilemmas, and methodology for managing disagreements.  
+- `/en/objections.md` → Responses to common criticisms from religious, conservative, or relativist perspectives  
+- `/en/references.md` → Annotated bibliography for deeper reading and legitimacy  
+- `/fr/` → French translation of all content
+- `index.html` → Language detection and redirection
 
 ---
 
@@ -59,12 +60,10 @@ This repository provides:
 
 This project is multilingual. Available versions:
 
-- 🇬🇧 [English – Manifesto](manifesto.md)
-- 🇫🇷 [Français – Manifeste](translations/fr/manifeste.md)
-- 🇪🇸 [Español – Manifiesto](translations/es/manifiesto.md)
-- *(more coming soon…)*
+- 🇬🇧 [English – Manifesto](/en/manifesto/)
+- 🇫🇷 [Français – Manifeste](/fr/manifeste/)
 
-Want to translate it? See the [Contributing guide](CONTRIBUTING.md) 👇
+Want to translate it? See the [Contributing guide](/en/contributing/) 👇
 
 ---
 
@@ -92,7 +91,7 @@ It offers a public moral framework for those who think differently — but live 
 - Care for the world, protect the living and the future.
 - Do good around you, here and now.
 
-➡️ [Full list here](principles.md)
+➡️ [Full list here](/en/principles/)
 
 ---
 
@@ -107,7 +106,7 @@ You can copy, adapt, translate or publish it — as long as you credit the sourc
 
 Your participation is invaluable! Here's how you can help:
 
--   Check our [`CONTRIBUTING.md`](CONTRIBUTING.md) for detailed guidelines.
+-   Check our [`Contributing Guide`](/en/contributing/) for detailed guidelines.
 -   **Translate:** Help us extend the reach of Codex Ethica by translating content into your language.
 -   **Proofreading & Style:** Suggest corrections or improvements to make the texts clearer and more impactful.
 -   **Content & Ideas:** Suggest additions, clarifications, or new arguments.
@@ -120,7 +119,7 @@ We are open to your feedback and contributions:
 -   Join our **dedicated discussion channels** (if available – see project updates).
 -   Contact us via **e-mail** for more direct exchanges (if an address is provided in the project's main communication channels).
 
-See [`CONTRIBUTING.md`](CONTRIBUTING.md) for how to help.
+See [`Contributing Guide`](/en/contributing/) for how to help.
 
 ---
 

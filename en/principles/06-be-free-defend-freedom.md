@@ -1,7 +1,8 @@
 ---
 layout: default
-title: "Principle 6: Be free, and defend the freedom of all"
-permalink: /principles/be-free-defend-freedom/
+title: "Principle 6: Be free, and defend everyone's freedom"
+permalink: /en/principles/be-free-defend-freedom/
+lang: en
 ---
 
 # 6. Be free, and defend the freedom of all.

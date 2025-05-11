@@ -1,3 +1,10 @@
+---
+layout: default
+title: Dix principes pour une morale sans dieux
+permalink: /fr/principes/
+lang: fr
+---
+
 # Dix principes pour une morale sans dieux
 
 *Une morale sans dogme. Un humanisme sans illusion.*

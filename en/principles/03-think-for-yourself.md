@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "Principle 3: Think for yourself, challenge dogmas"
-permalink: /principles/think-for-yourself/
+permalink: /en/principles/think-for-yourself/
+lang: en
 ---
 
 # 3. Think for yourself, challenge dogmas.

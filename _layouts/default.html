@@ -27,26 +27,64 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarNav">
               <ul class="navbar-nav ms-auto">
+                <!-- Liens adaptés selon la langue -->
+                {% if page.lang == 'fr' %}
                 <li class="nav-item">
-                  <a class="nav-link {% if page.url == '/' %}active{% endif %}" aria-current="page" href="{{ '/' | relative_url }}">Home</a>
+                  <a class="nav-link {% if page.url == '/fr/' %}active{% endif %}" aria-current="page" href="{{ '/fr/' | relative_url }}">Accueil</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link {% if page.url == '/manifesto/' %}active{% endif %}" href="{{ '/manifesto/' | relative_url }}">Manifesto</a>
+                  <a class="nav-link {% if page.url == '/fr/manifeste/' %}active{% endif %}" href="{{ '/fr/manifeste/' | relative_url }}">Manifeste</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link {% if page.url == '/principles/' %}active{% endif %}" href="{{ '/principles/' | relative_url }}">Principles</a>
+                  <a class="nav-link {% if page.url == '/fr/principes/' %}active{% endif %}" href="{{ '/fr/principes/' | relative_url }}">Principes</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link {% if page.url == '/philosophy/' %}active{% endif %}" href="{{ '/philosophy/' | relative_url }}">Philosophy</a>
+                  <a class="nav-link {% if page.url == '/fr/philosophie/' %}active{% endif %}" href="{{ '/fr/philosophie/' | relative_url }}">Philosophie</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link {% if page.url == '/objections/' %}active{% endif %}" href="{{ '/objections/' | relative_url }}">Objections</a>
+                  <a class="nav-link {% if page.url == '/fr/objections/' %}active{% endif %}" href="{{ '/fr/objections/' | relative_url }}">Objections</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link {% if page.url == '/references/' %}active{% endif %}" href="{{ '/references/' | relative_url }}">References</a>
+                  <a class="nav-link {% if page.url == '/fr/references/' %}active{% endif %}" href="{{ '/fr/references/' | relative_url }}">Références</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link {% if page.url == '/contributing/' %}active{% endif %}" href="{{ '/contributing/' | relative_url }}">Contribute</a>
+                  <a class="nav-link {% if page.url == '/fr/contributing/' %}active{% endif %}" href="{{ '/fr/contributing/' | relative_url }}">Contribuer</a>
+                </li>
+                {% else %}
+                <li class="nav-item">
+                  <a class="nav-link {% if page.url == '/en/' %}active{% endif %}" aria-current="page" href="{{ '/en/' | relative_url }}">Home</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link {% if page.url == '/en/manifesto/' %}active{% endif %}" href="{{ '/en/manifesto/' | relative_url }}">Manifesto</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link {% if page.url == '/en/principles/' %}active{% endif %}" href="{{ '/en/principles/' | relative_url }}">Principles</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link {% if page.url == '/en/philosophy/' %}active{% endif %}" href="{{ '/en/philosophy/' | relative_url }}">Philosophy</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link {% if page.url == '/en/objections/' %}active{% endif %}" href="{{ '/en/objections/' | relative_url }}">Objections</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link {% if page.url == '/en/references/' %}active{% endif %}" href="{{ '/en/references/' | relative_url }}">References</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link {% if page.url == '/en/contributing/' %}active{% endif %}" href="{{ '/en/contributing/' | relative_url }}">Contribute</a>
+                </li>
+                {% endif %}
+                <!-- Sélecteur de langue -->
+                <li class="nav-item dropdown">
+                  <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    <i class="bi bi-globe"></i> {% if page.lang == 'fr' %}FR{% else %}EN{% endif %}
+                  </a>
+                  <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdown">
+                    {% if page.lang == 'fr' %}
+                      <li><a class="dropdown-item" href="{{ page.url | replace: '/fr/', '/en/' | relative_url }}">English</a></li>
+                    {% else %}
+                      <li><a class="dropdown-item" href="{{ page.url | replace: '/en/', '/fr/' | relative_url }}">Français</a></li>
+                    {% endif %}
+                  </ul>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="https://github.com/codex-ethica/codex-ethica" target="_blank" rel="noopener noreferrer" aria-label="GitHub Repository">
@@ -67,7 +105,11 @@
         <div class="container text-center py-3">
           <small class="text-muted">
             &copy; {{ "now" | date: "%Y" }} {{ site.title | default: "Codex Ethica" }}.
+            {% if page.lang == 'fr' %}
+            Contenu sous licence <a href="{{ '/LICENSE.txt' | relative_url }}">Creative Commons BY-SA 4.0</a>.
+            {% else %}
             Content licensed under <a href="{{ '/LICENSE.txt' | relative_url }}">Creative Commons BY-SA 4.0</a>.
+            {% endif %}
           </small>
         </div>
     </footer>

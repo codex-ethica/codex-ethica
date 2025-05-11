@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "Principle 5: Be honest and humble in your quest for truth"
-permalink: /principles/be-honest-humble/
+permalink: /en/principles/be-honest-humble/
+lang: en
 ---
 
 # 5. Be honest and humble in your quest for truth.

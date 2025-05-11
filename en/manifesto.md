@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Our Manifesto - For a Morality Without Gods
-permalink: /manifesto/
+permalink: /en/manifesto/
+lang: en
 ---
 
 # Manifesto – For a Morality Without Gods

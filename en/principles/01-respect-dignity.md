@@ -1,7 +1,8 @@
 ---
 layout: default
-title: "Principle 1: Respect the dignity of every person"
-permalink: /principles/respect-dignity/
+title: Principle 1 - Respect the dignity of all persons
+permalink: /en/principles/respect-dignity/
+lang: en
 ---
 
 # 1. Respect the dignity of every person.

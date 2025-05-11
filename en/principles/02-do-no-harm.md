@@ -1,7 +1,8 @@
 ---
 layout: default
-title: "Principle 2: Do no harm"
-permalink: /principles/do-no-harm/
+title: Principle 2 - Do no harm
+permalink: /en/principles/do-no-harm/
+lang: en
 ---
 
 # 2. Do no harm.

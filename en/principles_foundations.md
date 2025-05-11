@@ -1,6 +1,13 @@
+---
+layout: default
+title: Philosophical Foundations of the Ten Principles
+permalink: /en/principles_foundations/
+lang: en
+---
+
 # Philosophical Foundations of the Ten Principles
 
-This document explores the philosophical roots and intellectual inspirations for each of the [Ten Principles of Codex Ethica](principles.md), as presented in our [Manifesto](manifesto.md). It highlights the connections with the authors and works cited in our [bibliographical references](references.md). The objective is to show that these principles, although formulated to be accessible and universal, are based on a rich tradition of humanist, rational, and critical thought.
+This document explores the philosophical roots and intellectual inspirations for each of the [Ten Principles of Codex Ethica](/en/principles/), as presented in our [Manifesto](/en/manifesto/). It highlights the connections with the authors and works cited in our [bibliographical references](/en/references/). The objective is to show that these principles, although formulated to be accessible and universal, are based on a rich tradition of humanist, rational, and critical thought.
 
 ---
 
@@ -21,7 +28,7 @@ This document explores the philosophical roots and intellectual inspirations for
 *   **John Stuart Mill:** His "harm principle" is a cornerstone of political and moral liberalism: the only legitimate purpose for which power can be rightfully exercised over any member of a civilized community, against his will, is to prevent harm to others. (Cf. *On Liberty*).
 *   **Ruwen Ogien:** Promoter of a "minimal morality" centered on the duty not to unjustly harm others, and on equal consideration for everyone's interests. He criticized moral paternalism and advocated for a secular ethics focused on preventing harm. (Cf. *Minimal Morality*).
 *   **Mahatma Gandhi:** The principle of non-violence (Ahimsa) is central to his philosophy and action. It involves not only the absence of physical violence but also violence in word or thought. The tagline echoes this idea that the absence of violence is a primary condition for justice. (Cf. *All Men Are Brothers*).
-*   **Medical Ethics (Primum non nocere):** Although not explicitly listed in [references.md](references.md), the principle "First, do no harm" is a foundation of medical ethics that has universal significance and reinforces this idea.
+*   **Medical Ethics (Primum non nocere):** Although not explicitly listed in [references](/en/references/), the principle "First, do no harm" is a foundation of medical ethics that has universal significance and reinforces this idea.
 
 ## 3. Think for yourself, challenge dogmas.
 *Doubt, question, verify. Truth has nothing to fear from doubt.*
@@ -72,7 +79,7 @@ This document explores the philosophical roots and intellectual inspirations for
 *   **John Rawls:** His *A Theory of Justice* proposes principles for a just society (equal liberty for all, and the difference principle according to which social and economic inequalities are justified only if they benefit the least advantaged). The idea of the "veil of ignorance" encourages thinking about justice from an impartial point of view. (Cf. *A Theory of Justice*).
 *   **Martha Nussbaum & Amartya Sen:** The "capabilities" approach (cf. Principle 1) provides a basis for identifying injustices in terms of deprivations of real freedoms and opportunities to lead a fulfilling life. It calls for political and social action to guarantee everyone a minimum threshold of capabilities.
 *   **Albert Camus:** His philosophy of revolt is a call not to resign oneself to the absurdity and injustice of the world, but to engage in a solidarity-based struggle for more justice and human dignity. (Cf. *The Rebel*, *The Plague*).
-*   **Figures of the struggle for social justice:** Although not all directly listed in *references.md*, the spirit of this principle is embodied by figures like Mahatma Gandhi (Satyagraha as the force of truth and love in the struggle for justice), Martin Luther King Jr., Nelson Mandela, and all those who have worked for civil rights and equity.
+*   **Figures of the struggle for social justice:** Although not all directly listed in our references, the spirit of this principle is embodied by figures like Mahatma Gandhi (Satyagraha as the force of truth and love in the struggle for justice), Martin Luther King Jr., Nelson Mandela, and all those who have worked for civil rights and equity.
 
 ## 8. Be responsible: your actions belong to you.
 *No God, no tradition can justify irresponsibility.*
@@ -90,7 +97,7 @@ This document explores the philosophical roots and intellectual inspirations for
 **Foundations and Inspirations:**
 
 *   **Hans Jonas:** This is the core of his *The Imperative of Responsibility*. Faced with the power of modern technology, Jonas develops a "heuristics of fear" that enjoins us to anticipate the long-term consequences of our actions on nature and future generations, and to act with prudence and solicitude.
-*   **Environmental Ethics:** This principle aligns with the broader current of environmental ethics that seeks to extend moral consideration beyond humans to the entire biosphere. Thinkers like Aldo Leopold (*A Sand County Almanac* and his concept of "Land Ethic") or Arne Naess (founder of "Deep Ecology") have contributed to this awareness, even if not explicitly in *references.md*, the spirit is there.
+*   **Environmental Ethics:** This principle aligns with the broader current of environmental ethics that seeks to extend moral consideration beyond humans to the entire biosphere. Thinkers like Aldo Leopold (*A Sand County Almanac* and his concept of "Land Ethic") or Arne Naess (founder of "Deep Ecology") have contributed to this awareness, even if not explicitly in our references, the spirit is there.
 *   **Indigenous Wisdom and Eastern Traditions:** Many world wisdom traditions (such as those mentioned for Ubuntu, Buen Vivir, or Taoism with Laozi) insist on the interconnection between humans and nature, and on the respect due to the environment as a condition for a harmonious life. (Cf. Laozi, *Dao De Jing*).
 *   **Brundtland Report (Our Common Future, 1987):** Although political in nature, this report popularized the concept of "sustainable development," defined as development that meets the needs of the present without compromising the ability of future generations to meet their own needs. This embodies the idea of responsibility towards the future and the planet.
 

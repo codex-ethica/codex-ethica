@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "Principle 10: Do good around you, here and now"
-permalink: /principles/do-good-around-you/
+permalink: /en/principles/do-good-around-you/
+lang: en
 ---
 
 # 10. Do good around you, here and now.

@@ -1,3 +1,10 @@
+---
+layout: default
+title: Notre Manifeste - Pour une morale sans dieux
+permalink: /fr/manifeste/
+lang: fr
+---
+
 # Manifeste – Pour une morale sans dieux
 
 ---
