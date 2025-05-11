@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Références
+title: 📚 Références – Codex Ethica
 permalink: /fr/references/
 lang: fr
 ---
 
 # 📚 Références – Codex Ethica
 
-Cette page recense les principales œuvres et auteurs qui ont nourri la réflexion et l'élaboration du [Codex Ethica]({{ '/fr/manifesto/' | relative_url }}). Ces références sont mobilisées et explicitées plus en détail dans notre document sur les [Fondements Philosophiques des Dix Principes]({{ '/fr/principles_foundations/' | relative_url }}) et irriguent l'ensemble de notre [démarche philosophique]({{ '/fr/philosophy/' | relative_url }}).
+Cette page recense les principales œuvres et auteurs qui ont nourri la réflexion et l'élaboration du [Manifeste – Pour une morale sans dieux]({{ '/fr/manifesto/' | relative_url }}). Ces références sont mobilisées et explicitées plus en détail dans notre document sur les [Fondements Philosophiques des Dix Principes]({{ '/fr/principles_foundations/' | relative_url }}) et irriguent l'ensemble de notre [Notre Approche Philosophique]({{ '/fr/philosophy/' | relative_url }}).
 
 ---
 

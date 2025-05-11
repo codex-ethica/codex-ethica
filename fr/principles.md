@@ -11,7 +11,7 @@ lang: fr
 
 ---
 
-**Ces principes, proposés dans notre [Manifeste pour une morale sans dieux]({{ '/fr/manifesto/' | relative_url }}), sont des guides pour penser et agir librement. À chacun de les faire vivre, en conscience.**
+**Ces principes, proposés dans notre [Manifeste – Pour une morale sans dieux]({{ '/fr/manifesto/' | relative_url }}), sont des guides pour penser et agir librement. À chacun de les faire vivre, en conscience.**
 
 Pour une exploration plus détaillée des inspirations philosophiques de ces principes, consultez le document [Fondements Philosophiques des Dix Principes]({{ '/fr/principles_foundations/' | relative_url }}).
 
@@ -47,5 +47,5 @@ Pour une exploration plus détaillée des inspirations philosophiques de ces pri
 ## 10. Fais le bien autour de toi, ici et maintenant.
 *Car c'est ici que tout commence — et que chaque geste conscient peut améliorer le monde.*
 
-Pour consulter la liste des œuvres et auteurs qui ont nourri cette réflexion, voir nos [Références bibliographiques]({{ '/fr/references/' | relative_url }}).
+Pour consulter la liste des œuvres et auteurs qui ont nourri cette réflexion, voir nos [📚 Références – Codex Ethica]({{ '/fr/references/' | relative_url }}).
 

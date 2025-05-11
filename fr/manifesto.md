@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Notre Manifeste - Pour une morale sans dieux
+title: Manifeste – Pour une morale sans dieux
 permalink: /fr/manifesto/
 lang: fr
 ---

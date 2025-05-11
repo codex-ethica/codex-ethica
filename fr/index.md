@@ -13,7 +13,7 @@ Un manifeste pour ceux qui choisissent la raison, la responsabilité et la digni
 <div class="text-center pt-4 pb-5">
   <h1 class="display-4">Codex Ethica</h1>
   <p class="lead mb-4">Un cadre éthique public, collaboratif et open-source fondé sur la raison, le respect mutuel et la responsabilité partagée — et non sur une autorité divine.</p>
-  <p><a href="{{ '/fr/manifesto/' | relative_url }}" class="btn btn-outline-codex btn-lg">Lire notre manifeste</a></p>
+  <p><a href="{{ '/fr/manifesto/' | relative_url }}" class="btn btn-outline-codex btn-lg">Manifeste – Pour une morale sans dieux</a></p>
 </div>
 
 <div class="container">
@@ -35,33 +35,33 @@ Un manifeste pour ceux qui choisissent la raison, la responsabilité et la digni
   <div class="row justify-content-center">
     <div class="col-md-5 mb-4 reading-guide-item">
       <h3>Notre appel : Le Manifeste</h3>
-      <p>Pour un premier aperçu rapide et pour saisir l'essence du projet, nous recommandons de commencer par le <a href="{{ '/fr/manifesto/' | relative_url }}">Manifeste</a>. Il expose notre appel fondateur : pourquoi et comment nous envisageons de construire une morale sans dieux.</p>
+      <p>Pour un premier aperçu rapide et pour saisir l'essence du projet, nous recommandons de commencer par le <a href="{{ '/fr/manifesto/' | relative_url }}">Manifeste – Pour une morale sans dieux</a>. Il expose notre appel fondateur : pourquoi et comment nous envisageons de construire une morale sans dieux.</p>
     </div>
     <div class="col-md-5 mb-4 reading-guide-item">
       <h3>Principes fondamentaux : Les Dix Principes</h3>
-      <p>Ensuite, familiarisez-vous avec les <a href="{{ '/fr/principes/' | relative_url }}">Dix Principes Clés</a>. Ils sont conçus comme une boussole concrète pour une vie éthique. Leurs fondements philosophiques sont explorés sur la page dédiée à chaque principe.</p>
+      <p>Ensuite, familiarisez-vous avec les <a href="{{ '/fr/principes/' | relative_url }}">Dix principes pour une morale sans dieux</a>. Ils sont conçus comme une boussole concrète pour une vie éthique. Leurs fondements philosophiques sont explorés sur la page dédiée à chaque principe.</p>
     </div>
   </div>
   <div class="row justify-content-center">
     <div class="col-md-5 mb-4 reading-guide-item">
       <h3>En profondeur : Fondements philosophiques</h3>
-      <p>Le document le plus complet est notre <a href="{{ '/fr/philosophie/' | relative_url }}">Philosophie</a>. Il expose le cadre théorique global, discute des études de cas, des dilemmes éthiques, et propose une méthodologie pour aborder les désaccords.</p>
+      <p>Le document le plus complet est notre <a href="{{ '/fr/philosophie/' | relative_url }}">Notre Approche Philosophique</a>. Il expose le cadre théorique global, discute des études de cas, des dilemmes éthiques, et propose une méthodologie pour aborder les désaccords.</p>
     </div>
     <div class="col-md-5 mb-4 reading-guide-item">
       <h3>Mise en Pratique : Application par Cercles</h3>
-      <p>Pour une application concrète des principes dans différents contextes sociaux (individu, groupe, organisation, etc.), consultez notre page <a href="{{ '/fr/practicum/' | relative_url }}">Mise en Pratique par Cercles</a>. Elle offre des exemples et des pistes de réflexion pour incarner le Codex au quotidien.</p>
+      <p>Pour une application concrète des principes dans différents contextes sociaux (individu, groupe, organisation, etc.), consultez notre page <a href="{{ '/fr/practicum/' | relative_url }}">Application contextuelle du Codex Ethica par cercles sociaux</a>. Elle offre des exemples et des pistes de réflexion pour incarner le Codex au quotidien.</p>
     </div>
   </div>
   <div class="row justify-content-center">
     <div class="col-md-5 mb-4 reading-guide-item">
       <h3>Dialogue ouvert : Répondre aux objections</h3>
-      <p>Si vous vous interrogez sur les objections courantes ou souhaitez voir comment cette éthique dialogue avec les critiques, nos <a href="{{ '/fr/objections/' | relative_url }}">Réponses aux Objections</a> offrent des perspectives raisonnées.</p>
+      <p>Si vous vous interrogez sur les objections courantes ou souhaitez voir comment cette éthique dialogue avec les critiques, nos <a href="{{ '/fr/objections/' | relative_url }}">Réponses aux objections fréquentes</a> offrent des perspectives raisonnées.</p>
     </div>
   </div>
 
   <div class="row mt-4">
     <div class="col-12 text-center">
-      <p>D'autres ressources, notamment les <a href="{{ '/fr/references/' | relative_url }}">Références Bibliographiques</a> et notre <a href="{{ '/fr/contributing/' | relative_url }}">Guide de Contribution</a>, sont également disponibles.</p>
+      <p>D'autres ressources, notamment les <a href="{{ '/fr/references/' | relative_url }}">📚 Références – Codex Ethica</a> et notre <a href="{{ '/fr/contributing/' | relative_url }}">Contribuer à Codex Ethica</a>, sont également disponibles.</p>
     </div>
   </div>
 
@@ -73,9 +73,9 @@ Un manifeste pour ceux qui choisissent la raison, la responsabilité et la digni
       <ul class="list-group list-group-flush">
         <li class="list-group-item">Une alternative claire et rigoureuse à la moralité religieuse.</li>
         <li class="list-group-item">Une fondation pour l'éthique humaniste, séculaire et civique.</li>
-        <li class="list-group-item">Un ensemble de <a href="{{ '/fr/principes/' | relative_url }}">10 principes fondamentaux</a> pour vivre éthiquement sans dogme.</li>
+        <li class="list-group-item">Un ensemble de <a href="{{ '/fr/principes/' | relative_url }}">Dix principes pour une morale sans dieux</a> pour vivre éthiquement sans dogme.</li>
         <li class="list-group-item">S'inspire de diverses traditions philosophiques et de penseurs contemporains.</li>
-        <li class="list-group-item">Open-source et collaboratif : <a href="{{ '/fr/contributing/' | relative_url }}">vos contributions sont les bienvenues</a>.</li>
+        <li class="list-group-item">Open-source et collaboratif : <a href="{{ '/fr/contributing/' | relative_url }}">Contribuer à Codex Ethica</a>.</li>
       </ul>
     </div>
   </div>
