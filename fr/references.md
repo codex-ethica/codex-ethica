@@ -51,8 +51,8 @@ Cette page recense les principales œuvres et auteurs qui ont nourri la réflexi
   _Pour une éthique de la révolte face à l'absurde, et une quête de justice sans illusions._
 - **Simone Weil** – La Pesanteur et la grâce (1947)
   _Pour une éthique exigeante de l'attention à autrui et de la compassion._
-- **Peter Singer** – La libération animale (1975)
-  _Pour l'extension de la considération morale au-delà de l'humain et l'éthique appliquée._
+- **Peter Singer** – La libération animale (1975), The Expanding Circle (1981)
+  _Pour l'extension de la considération morale au-delà de l'humain, l'éthique appliquée et l'élargissement des cercles moraux._
 - **Ruwen Ogien** – La morale minimale (2007)
   _Pour une éthique minimale, laïque, et le respect de l'autonomie personnelle._
 - **Aristote** – Éthique à Nicomaque
@@ -62,7 +62,12 @@ Cette page recense les principales œuvres et auteurs qui ont nourri la réflexi
 - **Hannah Arendt** – La condition de l'homme moderne (1958)
   _Pour une pensée sur l'action, la liberté et la responsabilité dans le monde public._
 
-## 4. Sagesses du Monde et Pensées Décoloniales
+## 4. Sociologie, Psychologie et Systèmes
+
+- **Urie Bronfenbrenner** – The Ecology of Human Development: Experiments by Nature and Design (1979) / Ecological Systems Theory
+  _Pour le modèle écologique du développement humain et la compréhension des influences systémiques par cercles (microsystème, mésosystème, exosystème, macrosystème)._
+
+## 5. Sagesses du Monde et Pensées Décoloniales
 
 - **Mencius** – Entretiens (IVe siècle av. J.-C.)
   _Bonté humaine, justice sociale dans la tradition confucéenne._
@@ -73,7 +78,7 @@ Cette page recense les principales œuvres et auteurs qui ont nourri la réflexi
 - **Dalaï Lama** – L'Art du bonheur (1998)
   _Pour une éthique de la compassion, de l'interdépendance et de la discipline mentale._
 
-## 5. Enjeux Éthiques Contemporains et Chartes
+## 6. Enjeux Éthiques Contemporains et Chartes
 
 - **Déclaration Universelle des Droits de l'Homme** (1948)
   _Document fondateur d'une éthique universelle des droits fondamentaux._
@@ -81,8 +86,10 @@ Cette page recense les principales œuvres et auteurs qui ont nourri la réflexi
   _Exemple de co-construction d'une éthique appliquée aux nouvelles technologies._
 - **UNESCO** – L'éducation à la citoyenneté mondiale (2015)
   _Pour un cadre éthique de l'éducation à l'échelle globale._
+- **Déclaration Universelle sur la Bioéthique et les Droits de l'Homme (UNESCO, 2005)**
+  _Cadre normatif multi-niveaux pour les enjeux bioéthiques, fondé sur la dignité humaine._
 
-## 6. Pour aller plus loin
+## 7. Pour aller plus loin
 
 - **John Stuart Mill** – De la liberté (1859)
   _Classique de la défense de la liberté individuelle et de la libre expression._

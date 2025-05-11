@@ -49,6 +49,12 @@ Un manifeste pour ceux qui choisissent la raison, la responsabilité et la digni
       <p>Le document le plus complet est notre <a href="{{ '/fr/philosophie/' | relative_url }}">Philosophie</a>. Il expose le cadre théorique global, discute des études de cas, des dilemmes éthiques, et propose une méthodologie pour aborder les désaccords.</p>
     </div>
     <div class="col-md-5 mb-4 reading-guide-item">
+      <h3>Mise en Pratique : Application par Cercles</h3>
+      <p>Pour une application concrète des principes dans différents contextes sociaux (individu, groupe, organisation, etc.), consultez notre page <a href="{{ '/fr/practicum/' | relative_url }}">Mise en Pratique par Cercles</a>. Elle offre des exemples et des pistes de réflexion pour incarner le Codex au quotidien.</p>
+    </div>
+  </div>
+  <div class="row justify-content-center">
+    <div class="col-md-5 mb-4 reading-guide-item">
       <h3>Dialogue ouvert : Répondre aux objections</h3>
       <p>Si vous vous interrogez sur les objections courantes ou souhaitez voir comment cette éthique dialogue avec les critiques, nos <a href="{{ '/fr/objections/' | relative_url }}">Réponses aux Objections</a> offrent des perspectives raisonnées.</p>
     </div>
