@@ -118,15 +118,51 @@ Pour cultiver cette sagesse pratique au quotidien et faciliter l'application du 
 
 ## Cercle Petit groupe / équipe
 
-- **Finalité éthique dominante :** Coopération, équité, pluralisme
-- **Exemples concrets d'application :**
-    - *(À compléter)*
-- **Contextes-types :**
-    - *(À compléter)*
-- **Recommandations ou bonnes pratiques :**
-    - *(À compléter)*
-- **Principes du Codex mis en jeu :**
-    - *(À compléter)*
+- **Finalité éthique dominante :** Coopération, équité, pluralisme.
+*Ce cercle concerne les interactions au sein d'ensembles restreints d'individus (familles, équipes de travail, associations, groupes d'amis) où la dynamique interpersonnelle est directe et quotidienne. L'enjeu éthique majeur est de concilier les aspirations individuelles et les objectifs collectifs dans un esprit de coopération équitable et de respect du pluralisme des idées. Il s'agit de construire un "nous" qui ne nie pas les "je", mais les sublime, comme le suggère Martin Buber avec sa philosophie du dialogue "Je-Tu" qui fonde la relation authentique.*
+
+#### Exemples concrets d'application
+
+1.  **Gestion d'un désaccord sur la répartition des tâches dans une association de quartier :**
+    Lors de la préparation d'un événement, des tensions apparaissent sur qui fait quoi. Plutôt que de laisser le conflit s'envenimer ou que quelques-uns assument toute la charge, l'équipe décide d'organiser une réunion dédiée. L'objectif est d'appliquer les principes du Codex : permettre à chacun d'exprimer ses contraintes et préférences (P4 Dialogue, P6 Liberté), reconnaître la valeur de chaque contribution (P1 Dignité), et aboutir à une répartition perçue comme juste et motivante par tous (P7 Justice), afin de servir au mieux la finalité de l'événement (P9 Bien commun). Cela reflète l'approche habermassienne de l'éthique de la discussion, où la norme juste émerge du dialogue rationnel et inclusif.
+
+2.  **Intégration d'un nouveau membre dans une équipe de projet existante :**
+    Une équipe accueille un nouveau collaborateur. Au lieu de le laisser se débrouiller seul, les membres s'organisent pour faciliter son intégration (P10 Faire le bien ici et maintenant) : présentation claire des objectifs et modes de fonctionnement, mentorat informel par un pair, sollicitation active de ses premières impressions et idées (P3 Penser par soi-même). L'objectif est de respecter sa dignité (P1), de valoriser rapidement son apport potentiel et de s'assurer qu'il se sente partie prenante du collectif, dans un souci d'équité des chances (P7). Cette démarche s'inscrit dans une logique de "care" éthique, soulignant l'interdépendance et la responsabilité mutuelle.
+
+3.  **Prise de décision pour l'utilisation d'un budget commun dans une colocation :**
+    Les colocataires doivent décider comment dépenser une petite somme d'argent mise en commun pour améliorer leur logement. Les opinions divergent : certains veulent un nouvel équipement de cuisine, d'autres des éléments de décoration. Ils appliquent les principes du Codex en listant les options, en évaluant l'utilité et le bénéfice pour l'ensemble du groupe (P9 Bien commun), en s'assurant que chaque voix est entendue et respectée (P4 Dialogue, P6 Liberté), et en cherchant un compromis ou une solution par étapes qui satisfasse au mieux l'ensemble des membres (P7 Justice, P5 Honnêteté sur les préférences). Ils pourraient s'inspirer de la recherche du consensus ou, à défaut, de règles de décision majoritaire transparentes et acceptées.
+
+#### Contextes-types
+
+-   Équipes de travail professionnelles (projets, départements, petites entreprises).
+-   Associations, collectifs militants, groupes de bénévoles.
+-   Groupes d'amis, familles (pour les décisions engageant le groupe).
+-   Équipes sportives, artistiques ou de loisir.
+-   Groupes d'étude, cercles d'apprentissage collaboratif.
+
+#### Recommandations ou bonnes pratiques
+
+Pour qu'un petit groupe ou une équipe fonctionne de manière éthiquement saine et efficace :
+
+*   **Établir collectivement des règles de vie et de travail claires :** Définir ensemble les attentes en matière de communication, de prise de décision, de gestion des conflits, et de répartition des responsabilités (P4, P7, P8). La Charte d'équipe peut être un outil précieux.
+*   **Pratiquer une communication ouverte, honnête et respectueuse :** Encourager l'écoute active, le feedback constructif (même lorsqu'il est critique), et le droit à l'erreur dans un cadre sécurisant (P1, P4, P5).
+*   **Valoriser activement la diversité et le pluralisme :** Reconnaître que chaque membre apporte des compétences, des expériences et des perspectives uniques ; organiser les discussions pour que les opinions minoritaires ou divergentes puissent s'exprimer et être considérées (P3, P6). L'intelligence collective se nourrit de cette diversité.
+*   **Mettre en place des processus équitables et transparents pour la résolution des conflits :** Prévoir des étapes graduées : discussion bilatérale, médiation par un tiers neutre au sein du groupe, ou recours à une personne extérieure si nécessaire (P4, P7).
+*   **Célébrer les succès et apprendre des échecs collectivement :** Reconnaître les contributions individuelles et collectives aux réussites ; analyser les difficultés rencontrées comme des opportunités d'amélioration pour le groupe (P9, P10).
+*   **Instaurer des moments réguliers de "méta-communication" :** Prendre le temps de discuter du fonctionnement du groupe lui-même : "Comment travaillons-nous ensemble ? Qu'est-ce qui fonctionne bien ? Que pourrions-nous améliorer ?" (P3, P8).
+
+#### Principes du Codex particulièrement mobilisés
+
+Si tous les principes peuvent être concernés, ceux qui sont le plus souvent au premier plan dans la dynamique d'un petit groupe sont :
+-   **P1 (Dignité) :** Assurer le respect mutuel, l'écoute et la non-discrimination entre les membres.
+-   **P3 (Penser par soi-même) :** Permettre à chacun d'apporter sa perspective unique et de questionner le statu quo de manière constructive.
+-   **P4 (Dialogue) :** Socle de la coopération, de la co-construction des décisions et de la résolution des différends.
+-   **P5 (Honnêteté) :** Favoriser la transparence dans les échanges, les intentions et le partage d'informations.
+-   **P6 (Liberté) :** Garantir la liberté d'expression et d'opinion, y compris le droit au désaccord, dans le respect des autres.
+-   **P7 (Justice) :** Veiller à l'équité dans la répartition des tâches, des ressources, de la reconnaissance, et dans le traitement des conflits.
+-   **P8 (Responsabilité) :** Encourager la responsabilité de chacun envers ses engagements et envers les objectifs du groupe.
+-   **P9 (Bien commun) :** Orienter l'action collective vers des buts partagés et bénéfiques pour l'ensemble du groupe et, si pertinent, au-delà.
+-   **P10 (Faire le bien ici et maintenant) :** Saisir les occasions concrètes d'améliorer la collaboration, de soutenir un membre ou de faire progresser le projet commun.
 
 ## Cercle Organisation
 
