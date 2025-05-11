@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Dix principes pour une morale sans dieux
-permalink: /fr/principes/
+permalink: /fr/principles/
 lang: fr
 ---
 
@@ -11,9 +11,9 @@ lang: fr
 
 ---
 
-**Ces principes, proposés dans notre [Manifeste pour une morale sans dieux](manifeste.md), sont des guides pour penser et agir librement. À chacun de les faire vivre, en conscience.**
+**Ces principes, proposés dans notre [Manifeste pour une morale sans dieux](manifesto.md), sont des guides pour penser et agir librement. À chacun de les faire vivre, en conscience.**
 
-Pour une exploration plus détaillée des inspirations philosophiques de ces principes, consultez le document [Fondements Philosophiques des Dix Principes](fondements_des_principes.md).
+Pour une exploration plus détaillée des inspirations philosophiques de ces principes, consultez le document [Fondements Philosophiques des Dix Principes](principles_foundations.md).
 
 ---
 

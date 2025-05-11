@@ -7,7 +7,7 @@ lang: fr
 
 # 📚 Références – Codex Ethica
 
-Cette page recense les principales œuvres et auteurs qui ont nourri la réflexion et l'élaboration du [Codex Ethica](manifeste.md). Ces références sont mobilisées et explicitées plus en détail dans notre document sur les [Fondements Philosophiques des Dix Principes](fondements_des_principes.md) et irriguent l'ensemble de notre [démarche philosophique](philosophie.md).
+Cette page recense les principales œuvres et auteurs qui ont nourri la réflexion et l'élaboration du [Codex Ethica](manifesto.md). Ces références sont mobilisées et explicitées plus en détail dans notre document sur les [Fondements Philosophiques des Dix Principes](principles_foundations.md) et irriguent l'ensemble de notre [démarche philosophique](philosophy.md).
 
 ---
 

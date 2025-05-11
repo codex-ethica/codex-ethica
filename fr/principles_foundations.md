@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Fondements philosophiques des Dix Principes
-permalink: /fr/fondements_des_principes/
+title: Fondements Philosophiques des Dix Principes
+permalink: /fr/principles_foundations/
 lang: fr
 ---
 
-# Fondements philosophiques des Dix Principes
+# Fondements Philosophiques des Dix Principes
 
-Ce document explore les racines philosophiques et les inspirations intellectuelles de chacun des [Dix Principes de Codex Ethica](principes.md), tels que présentés dans notre [Manifeste](manifeste.md). Il met en évidence les liens avec les auteurs et ouvrages cités dans nos [références bibliographiques](references.md). L'objectif est de montrer que ces principes, bien que formulés pour être accessibles et universels, s'appuient sur une riche tradition de pensée humaniste, rationnelle et critique.
+Ce document explore les racines philosophiques et les inspirations intellectuelles de chacun des [Dix Principes de Codex Ethica](principles.md), tels que présentés dans notre [Manifeste](manifesto.md). Il met en évidence les liens avec les auteurs et ouvrages cités dans nos [références bibliographiques](references.md). L'objectif est de montrer que ces principes, bien que formulés pour être accessibles et universels, s'appuient sur une riche tradition de pensée humaniste, rationnelle et critique.
 
 ---
 

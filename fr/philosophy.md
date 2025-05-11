@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Les fondements philosophiques de Codex Ethica
-permalink: /fr/philosophie/
+title: Notre Approche Philosophique
+permalink: /fr/philosophy/
 lang: fr
 ---
 
-# Fondements philosophiques – Codex Ethica
+# Notre Approche Philosophique
 
 ## Introduction
 
-Codex Ethica propose une éthique universelle, rationnelle et laïque, fondée sur la dignité humaine, la liberté critique et la responsabilité partagée. Ce projet s'inscrit dans une tradition philosophique plurielle, refusant tout dogmatisme et toute transcendance imposée, pour offrir un socle commun de réflexion morale adapté aux défis du XXIe siècle, tout en restant lucide sur les obstacles structurels à sa pleine réalisation et sur l'importance de son incarnation dans des pratiques quotidiennes. Il se décline en un [Manifeste pour une morale sans dieux](manifeste.md), [Dix Principes](principes.md) pour guider l'action, et des [Réponses aux objections](objections.md) fréquentes.
+Codex Ethica propose une éthique universelle, rationnelle et laïque, fondée sur la dignité humaine, la liberté critique et la responsabilité partagée. Ce projet s'inscrit dans une tradition philosophique plurielle, refusant tout dogmatisme et toute transcendance imposée, pour offrir un socle commun de réflexion morale adapté aux défis du XXIe siècle, tout en restant lucide sur les obstacles structurels à sa pleine réalisation et sur l'importance de son incarnation dans des pratiques quotidiennes. Il se décline en un [Manifeste pour une morale sans dieux](manifesto.md), [Dix Principes](principles.md) pour guider l'action, et des [Réponses aux objections](objections.md) fréquentes.
 
 ---
 
@@ -29,7 +29,7 @@ Trois grands principes structurent le Codex Ethica :
 
 Ces principes ne sont pas de simples idéaux abstraits, mais appellent à être cultivés et incarnés dans des *pratiques* individuelles et collectives, ce qui implique une attention constante aux conditions sociales qui facilitent ou entravent leur mise en œuvre.
 
-➡️ Ces principes sont détaillés et leurs [fondements philosophiques explorés ici](fondements_des_principes.md). Voir aussi la liste concise des [10 Principes du Codex Ethica](principes.md).
+➡️ Ces principes sont détaillés et leurs [fondements philosophiques explorés ici](principles_foundations.md). Voir aussi la liste concise des [10 Principes du Codex Ethica](principles.md).
 
 ## 3. Traditions philosophiques convergentes
 

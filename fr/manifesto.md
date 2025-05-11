@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Notre Manifeste - Pour une morale sans dieux
-permalink: /fr/manifeste/
+permalink: /fr/manifesto/
 lang: fr
 ---
 
@@ -16,7 +16,7 @@ Ces fondations humaines suffisent pour **bâtir ensemble une morale solide, just
 
 Pour éclairer nos choix, les enseignements d'un passé lointain, souvent contradictoires ou partiaux, ne suffisent plus.
 Aujourd'hui, nous avons indispensablement besoin de clarté dans le discernement, de rigueur dans les principes et de courage face à nos responsabilités.
-Et cette éthique d'aujourd'hui, **c'est à nous, collectivement, de la construire** (pour une exploration de ces fondations, voir notre [démarche philosophique](philosophie.md)), dans le sillage de tous ceux qui, des Lumières à nos jours, ont affirmé la primauté de la conscience humaine.
+Et cette éthique d'aujourd'hui, **c'est à nous, collectivement, de la construire** (pour une exploration de ces fondations, voir notre [démarche philosophique](philosophy.md)), dans le sillage de tous ceux qui, des Lumières à nos jours, ont affirmé la primauté de la conscience humaine.
 
 ## 2. Les limites et l'apport des fondements religieux de la morale
 
@@ -62,7 +62,7 @@ Ainsi, l'essor et le partage d'une morale laïque, fondée sur l'argumentation e
 ## 5. Dix principes pour une vie juste
 
 En guise de socle partagé, adaptable et aisément transmissible, nous avançons ces dix principes :
-➡️ [Découvrir les 10 principes pour une éthique au quotidien](principes.md)
+➡️ [Découvrir les 10 principes pour une éthique au quotidien](principles.md)
 
 Ces orientations ne se réclament d'aucune croyance particulière et ne visent à s'imposer à quiconque.
 Chacun peut se les approprier, les nourrir de sa réflexion, les diffuser, les ajuster à sa mesure.
