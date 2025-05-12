@@ -17,7 +17,7 @@ Le Codex Ethica n'est pas l'œuvre d'un seul individu, mais le fruit d'une réfl
 
 ## L'anonymat de l'auteur : un choix éthique
 
-L'auteur initial du Codex Ethica a choisi l'anonymat pour éviter toute personnalisation ou autorité indue. Ce choix vise à mettre l'accent sur la force des idées, la dynamique collective et la responsabilité partagée. L'anonymat n'est pas un retrait, mais une invitation à l'appropriation par tous : le projet appartient à celles et ceux qui le font vivre, le questionnent et le transforment.
+L'auteur initial du Codex Ethica a choisi l'anonymat pour éviter toute personnalisation ou autorité indue. Ce choix vise à mettre l'accent sur la force des idées, la dynamique collective et la responsabilité partagée. L'anonymat n'est pas un retrait, mais une invitation à l'appropriation par tous : le projet appartient à celles et ceux qui le font vivre, le questionnent et le transforment. Il s'agit aussi de reconnaître que les idées fondamentales du Codex, prises une à une, s'inscrivent dans une longue tradition de pensée et n'ont rien de radicalement inédit ; c'est la forme, la cohérence d'ensemble et la vision proposée qui constituent l'originalité du projet.
 
 ## L'intelligence artificielle : outil et vigilance
 
