@@ -39,7 +39,7 @@ Un manifeste pour ceux qui choisissent la raison, la responsabilité et la digni
     </div>
     <div class="col-md-5 mb-4 reading-guide-item">
       <h3>Principes fondamentaux : Les Dix Principes</h3>
-      <p>Ensuite, familiarisez-vous avec les <a href="{{ '/fr/principes/' | relative_url }}">Dix principes pour une morale sans dieux</a>. Ils sont conçus comme une boussole concrète pour une vie éthique. Leurs fondements philosophiques sont explorés sur la page dédiée à chaque principe.</p>
+      <p>Ensuite, familiarisez-vous avec les <a href="{{ '/fr/principes/' | relative_url }}">Dix principes pour une morale sans dieux</a>. Ils sont conçus comme une boussole concrète pour une vie éthique. Leurs fondements philosophiques sont explorés sur la page dédiée à chaque principe, et vous pouvez approfondir en consultant <a href="{{ '/fr/principles_foundations/' | relative_url }}">les fondements des principes</a>.</p>
     </div>
   </div>
   <div class="row justify-content-center">
@@ -61,7 +61,7 @@ Un manifeste pour ceux qui choisissent la raison, la responsabilité et la digni
 
   <div class="row mt-4">
     <div class="col-12 text-center">
-      <p>D'autres ressources, notamment les <a href="{{ '/fr/references/' | relative_url }}">📚 Références – Codex Ethica</a> et notre <a href="{{ '/fr/contributing/' | relative_url }}">Contribuer à Codex Ethica</a>, sont également disponibles.</p>
+      <p>D'autres ressources, notamment la page <a href="{{ '/fr/about/' | relative_url }}">À propos</a>, les <a href="{{ '/fr/references/' | relative_url }}">📚 Références – Codex Ethica</a> et notre <a href="{{ '/fr/contributing/' | relative_url }}">Contribuer à Codex Ethica</a>, sont également disponibles.</p>
     </div>
   </div>
 
