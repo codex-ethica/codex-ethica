@@ -1,8 +1,8 @@
 title: Codex Ethica
 theme: minima
 description: Un cadre moral séculier fondé sur la raison, le respect et la responsabilité
-# url: "https://codex-ethica.org"
-baseurl: ""
+url: "https://codex-ethica.github.io"
+baseurl: "/codex-ethica"
 
 # Paramètres multilingues
 languages:
